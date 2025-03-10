@@ -2981,6 +2981,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-10 01:37:09 +0000",
+      "minecraft:vindicator": "2025-03-10 03:52:39 +0000",
       "minecraft:spider": "2025-03-10 01:32:14 +0000",
       "minecraft:creeper": "2025-03-10 02:07:03 +0000",
       "minecraft:zombie": "2025-03-10 01:33:51 +0000"
@@ -10073,6 +10074,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-03-10 03:59:36 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/blue_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-03-10 03:35:15 +0000"
@@ -10190,6 +10197,12 @@
   "galosphere:recipes/building_blocks/smooth_amethyst_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-03-10 03:32:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-03-10 03:52:20 +0000"
     },
     "done": true
   },
@@ -10322,6 +10335,12 @@
   "handcrafted:recipes/misc/wood_plate": {
     "criteria": {
       "has_wood_plate": "2025-03-10 03:38:52 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_copy_paste": {
+    "criteria": {
+      "has_emerald": "2025-03-10 03:52:20 +0000"
     },
     "done": true
   },
@@ -10571,6 +10590,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-03-10 03:56:19 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/dusk_bookshelf": {
     "criteria": {
       "has_item": "2025-03-10 03:46:09 +0000"
@@ -10592,6 +10617,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-03-10 03:38:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-03-10 03:52:20 +0000"
     },
     "done": true
   },
@@ -10793,6 +10824,12 @@
     },
     "done": true
   },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-03-10 03:59:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-03-10 03:32:11 +0000"
@@ -10958,6 +10995,12 @@
   "mcwroofs:recipes/spruce_planks": {
     "criteria": {
       "has_planks": "2025-03-10 03:35:15 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/emerald]": "2025-03-10 03:52:20 +0000"
     },
     "done": true
   },
