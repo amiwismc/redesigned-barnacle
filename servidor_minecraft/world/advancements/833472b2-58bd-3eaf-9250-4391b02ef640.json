@@ -2529,6 +2529,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-03-10 02:11:58 +0000",
+      "honey_bottle": "2025-03-10 04:51:35 +0000",
       "cooked_mutton": "2025-03-10 01:44:11 +0000",
       "cooked_beef": "2025-03-10 01:31:12 +0000",
       "baked_potato": "2025-03-10 02:22:33 +0000",
@@ -9622,6 +9623,12 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/rupee_helmet": {
+    "criteria": {
+      "has_rupee_ingot": "2025-03-10 04:33:55 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/yellow_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-03-10 03:35:15 +0000"
@@ -9748,6 +9755,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-03-10 04:37:09 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/smooth_amethyst": {
     "criteria": {
       "has_amethyst_block": "2025-03-10 03:32:14 +0000"
@@ -9826,6 +9839,12 @@
     },
     "done": true
   },
+  "divinerpg:overworld/eye_of_evil": {
+    "criteria": {
+      "look_into_the_eye": "2025-03-10 04:33:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-03-10 03:35:15 +0000"
@@ -9886,6 +9905,12 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/rupee_pickaxe": {
+    "criteria": {
+      "has_ingot": "2025-03-10 04:33:55 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/blackboard": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-03-10 03:38:52 +0000"
@@ -9925,6 +9950,12 @@
   "create_dd:recipes/create_dd.palettes/cut_amethyst_block_brick_stairs_from_stone_types_amethyst_block_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst_block": "2025-03-10 03:32:14 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/rupee_leggings": {
+    "criteria": {
+      "has_rupee_ingot": "2025-03-10 04:33:55 +0000"
     },
     "done": true
   },
@@ -10138,6 +10169,12 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shapeless/rupee_nugget": {
+    "criteria": {
+      "has_ingot": "2025-03-10 04:33:55 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/planter_rich": {
     "criteria": {
       "has_brick": "2025-03-10 04:28:45 +0000"
@@ -10258,6 +10295,12 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/rupee_rapier": {
+    "criteria": {
+      "has_rupee_ingot": "2025-03-10 04:33:55 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/amethyst_slab_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-03-10 03:32:14 +0000"
@@ -10288,6 +10331,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-03-10 04:44:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-03-10 03:49:40 +0000"
@@ -10309,6 +10358,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-03-10 03:32:11 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/rupee_minibricks": {
+    "criteria": {
+      "has_ingot": "2025-03-10 04:33:55 +0000"
     },
     "done": true
   },
@@ -10519,6 +10574,12 @@
   "decorative_blocks:recipes/building_blocks/spruce_support": {
     "criteria": {
       "has_plank": "2025-03-10 03:35:15 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/rupee_block": {
+    "criteria": {
+      "has_ingot": "2025-03-10 04:33:55 +0000"
     },
     "done": true
   },
@@ -10882,6 +10943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-03-10 04:44:45 +0000"
+    },
+    "done": true
+  },
   "divinerpg:recipes/shapeless/yellow_vane": {
     "criteria": {
       "has_obsidian": "2025-03-10 03:48:44 +0000"
@@ -10891,6 +10958,12 @@
   "supplementaries:recipes/decorations/sign_post_spruce": {
     "criteria": {
       "has_item": "2025-03-10 03:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-03-10 04:44:45 +0000"
     },
     "done": true
   },
@@ -11074,6 +11147,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honey_bottle": "2025-03-10 04:44:45 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/rupee_boots": {
+    "criteria": {
+      "has_rupee_ingot": "2025-03-10 04:33:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-03-10 03:46:32 +0000"
@@ -11083,6 +11168,12 @@
   "stoneworks:recipes/building_blocks/calcite_tile_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-03-10 03:32:11 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/rupee_axe": {
+    "criteria": {
+      "has_ingot": "2025-03-10 04:33:55 +0000"
     },
     "done": true
   },
@@ -11182,6 +11273,12 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/rupee_chestplate": {
+    "criteria": {
+      "has_rupee_ingot": "2025-03-10 04:33:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-03-10 03:48:44 +0000"
@@ -11191,6 +11288,12 @@
   "stoneworks:recipes/building_blocks/mossy_calcite_brick_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-03-10 03:32:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_honey_bottle": "2025-03-10 04:44:45 +0000"
     },
     "done": true
   },
@@ -11356,6 +11459,12 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/rupee_lamp": {
+    "criteria": {
+      "has_ingot": "2025-03-10 04:33:55 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/transportation/ghost_rail": {
     "criteria": {
       "has_item": "2025-03-10 04:24:06 +0000"
@@ -11371,6 +11480,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-03-10 03:35:15 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/rupee_shield": {
+    "criteria": {
+      "has_ingot": "2025-03-10 04:33:55 +0000"
     },
     "done": true
   },
@@ -11464,6 +11579,12 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/rupee_hoe": {
+    "criteria": {
+      "has_ingot": "2025-03-10 04:33:55 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_desk": {
     "criteria": {
       "has_spruce_planks": "2025-03-10 03:35:15 +0000"
@@ -11503,6 +11624,12 @@
   "supplementaries:recipes/sconce_soul": {
     "criteria": {
       "has_iron_nugget": "2025-03-10 03:10:59 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/rupee_shovel": {
+    "criteria": {
+      "has_ingot": "2025-03-10 04:33:55 +0000"
     },
     "done": true
   },

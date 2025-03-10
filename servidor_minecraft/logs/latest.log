@@ -4415,3 +4415,30 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Mar2025 04:33:36.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Eye of Evil]
 [10Mar2025 04:33:50.020] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/21442, l='ServerLevel[world]', x=-451.50, y=73.00, z=-0.50]
 [10Mar2025 04:33:51.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Eye of Evil]
+[10Mar2025 04:34:26.244] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Niklas'/9733, l='ServerLevel[world]', x=-373.28, y=-24.00, z=64.71] died: Niklas was slain by marcouwu2005
+[10Mar2025 04:35:31.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Best Friends Forever]
+[10Mar2025 04:38:24.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <marcouwu2005> [x:-376, y:-23, z:101, dim:minecraft:overworld]
+[10Mar2025 04:38:25.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 was slain by Cave Centipede
+[10Mar2025 04:38:26.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Disconnected
+[10Mar2025 04:38:26.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[10Mar2025 04:38:26.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Cave Centipede
+[10Mar2025 04:38:26.746] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client marcouwu2005
+[10Mar2025 04:38:27.407] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Mar2025 04:42:52.604] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.200.188.28:33985] logged in with entity id 23519 at (-373.14502824517353, -26.0, 104.8828416389739)
+[10Mar2025 04:42:52.614] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[10Mar2025 04:42:52.615] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[10Mar2025 04:42:52.616] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[10Mar2025 04:42:52.617] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[10Mar2025 04:42:52.620] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[10Mar2025 04:42:52.623] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[10Mar2025 04:42:52.623] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[10Mar2025 04:42:52.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[10Mar2025 04:42:52.738] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
+[10Mar2025 04:42:53.251] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of marcouwu2005 (18)
+[10Mar2025 04:42:53.251] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to marcouwu2005
+[10Mar2025 04:43:07.676] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[10Mar2025 04:43:08.681] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[10Mar2025 04:43:08.681] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58) successfully connected to voice chat
+[10Mar2025 04:43:08.947] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Mar2025 04:43:19.030] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Tommie'/22529, l='ServerLevel[world]', x=-455.20, y=4.00, z=188.51] died: Tommie fell off a ladder
+[10Mar2025 04:45:54.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Cobweb Entanglement]
