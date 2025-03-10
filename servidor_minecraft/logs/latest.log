@@ -4386,3 +4386,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Mar2025 01:35:36.292] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2908, l='ServerLevel[world]', x=-195.50, y=71.00, z=228.50]
 [10Mar2025 01:36:18.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Dungeon Now Loading]
 [10Mar2025 01:37:09.693] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4545, l='ServerLevel[world]', x=-193.50, y=72.00, z=206.50]
+[10Mar2025 01:39:35.345] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/5220, l='ServerLevel[world]', x=-192.50, y=72.00, z=204.50]
+[10Mar2025 01:39:41.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Stone Age]
+[10Mar2025 01:40:07.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Stone Age]
+[10Mar2025 01:41:04.146] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/5724, l='ServerLevel[world]', x=-194.50, y=71.00, z=230.50]
+[10Mar2025 01:41:10.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Kobblin
+[10Mar2025 01:41:12.190] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Mar2025 01:42:07.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Take Aim]
+[10Mar2025 01:42:48.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Getting an Upgrade]
+[10Mar2025 01:43:13.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Getting an Upgrade]
+[10Mar2025 01:43:45.545] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/6921, l='ServerLevel[world]', x=-194.50, y=71.00, z=228.50]
+[10Mar2025 01:45:42.292] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/7425, l='ServerLevel[world]', x=-194.50, y=72.00, z=206.50]
+[10Mar2025 01:46:41.496] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/8022, l='ServerLevel[world]', x=-191.50, y=70.00, z=266.50]
+[10Mar2025 01:47:59.593] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/8807, l='ServerLevel[world]', x=-196.50, y=71.00, z=229.50]
