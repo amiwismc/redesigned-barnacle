@@ -4142,3 +4142,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Mar2025 03:20:55.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Crops of the Wild]
 [10Mar2025 03:23:55.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> [x:-335, y:-6, z:218, dim:minecraft:overworld]
 [10Mar2025 03:27:25.164] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[10Mar2025 03:33:56.471] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Teresia'/4747, l='ServerLevel[world]', x=-399.49, y=4.56, z=210.50] died: Teresia was pricked to death
+[10Mar2025 03:34:38.468] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Veine'/4210, l='ServerLevel[world]', x=-393.47, y=4.56, z=73.48] died: Veine was pricked to death
+[10Mar2025 03:35:17.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has reached the goal [Who built this?]
+[10Mar2025 03:35:18.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has reached the goal [Who built this?]
+[10Mar2025 03:35:21.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement ['X' Marks the Spot]
+[10Mar2025 03:35:23.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement ['X' Marks the Spot]
+[10Mar2025 03:36:10.368] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Josephine'/4177, l='ServerLevel[world]', x=-393.45, y=4.56, z=73.47] died: Josephine was pricked to death
+[10Mar2025 03:36:21.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Amateur Archaeologist]
+[10Mar2025 03:38:13.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Disme A Dozen]
+[10Mar2025 03:38:25.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Barrel Booty]
+[10Mar2025 03:40:04.239] [Worker-Main-2/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[10Mar2025 03:40:04.240] [Worker-Main-2/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[10Mar2025 03:40:20.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 drowned
+[10Mar2025 03:40:22.500] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Mar2025 03:40:49.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 drowned
+[10Mar2025 03:40:50.550] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
