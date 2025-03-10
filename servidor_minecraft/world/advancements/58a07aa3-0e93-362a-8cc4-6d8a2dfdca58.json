@@ -2686,7 +2686,9 @@
       "cooked_beef": "2025-03-10 01:15:20 +0000",
       "beef": "2025-03-10 01:37:56 +0000",
       "bread": "2025-03-10 04:49:56 +0000",
-      "golden_apple": "2025-03-10 04:50:03 +0000"
+      "golden_apple": "2025-03-10 04:50:03 +0000",
+      "rotten_flesh": "2025-03-10 04:58:12 +0000",
+      "suspicious_stew": "2025-03-10 04:56:42 +0000"
     },
     "done": false
   },
@@ -11164,9 +11166,51 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/rupee_helmet": {
+    "criteria": {
+      "has_rupee_ingot": "2025-03-10 05:01:42 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/arlemite_shield": {
+    "criteria": {
+      "has_ingot": "2025-03-10 04:58:04 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/realmite_chestplate": {
+    "criteria": {
+      "has_realmite_ingot": "2025-03-10 05:01:05 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/realmite_pickaxe": {
+    "criteria": {
+      "has_ingot": "2025-03-10 05:01:05 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-10 04:59:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-10 04:47:19 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/realmite_shovel": {
+    "criteria": {
+      "has_ingot": "2025-03-10 05:01:05 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/arlemite_minibricks": {
+    "criteria": {
+      "has_ingot": "2025-03-10 04:58:04 +0000"
     },
     "done": true
   },
@@ -11176,9 +11220,45 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/realmite_shield": {
+    "criteria": {
+      "has_ingot": "2025-03-10 05:01:05 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/rupee_pickaxe": {
+    "criteria": {
+      "has_ingot": "2025-03-10 05:01:42 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/arlemite_boots": {
+    "criteria": {
+      "has_arlemite_ingot": "2025-03-10 04:58:04 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/coarse_turquoise_dirt": {
     "criteria": {
       "has_item": "2025-03-10 04:47:19 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_item": "2025-03-10 04:56:43 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/rupee_leggings": {
+    "criteria": {
+      "has_rupee_ingot": "2025-03-10 05:01:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-03-10 04:56:43 +0000"
     },
     "done": true
   },
@@ -11188,9 +11268,27 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/arlemite_shovel": {
+    "criteria": {
+      "has_ingot": "2025-03-10 04:58:04 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/arlemite_stabber": {
+    "criteria": {
+      "has_arlemite_ingot": "2025-03-10 04:58:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-10 04:47:19 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/arlemite_leggings": {
+    "criteria": {
+      "has_arlemite_ingot": "2025-03-10 04:58:04 +0000"
     },
     "done": true
   },
@@ -11200,9 +11298,63 @@
     },
     "done": true
   },
+  "divinerpg:recipes/smelting/arlemite_ingot_from_raw_arlemite": {
+    "criteria": {
+      "has_raw_arlemite": "2025-03-10 04:58:18 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_boots_repairing": {
     "criteria": {
       "has_leather_boots": "2025-03-10 04:44:36 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shapeless/rupee_nugget": {
+    "criteria": {
+      "has_ingot": "2025-03-10 05:01:42 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/arlemite_lamp": {
+    "criteria": {
+      "has_ingot": "2025-03-10 04:58:04 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shapeless/arlemite_nugget": {
+    "criteria": {
+      "has_ingot": "2025-03-10 04:58:04 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/arlemite_pickaxe": {
+    "criteria": {
+      "has_ingot": "2025-03-10 04:58:04 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/realmite_leggings": {
+    "criteria": {
+      "has_realmite_ingot": "2025-03-10 05:01:05 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/realmite_hoe": {
+    "criteria": {
+      "has_ingot": "2025-03-10 05:01:05 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/realmite_block": {
+    "criteria": {
+      "has_ingot": "2025-03-10 05:01:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-03-10 04:56:43 +0000"
     },
     "done": true
   },
@@ -11218,6 +11370,24 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/arlemite_chestplate": {
+    "criteria": {
+      "has_arlemite_ingot": "2025-03-10 04:58:04 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/rupee_rapier": {
+    "criteria": {
+      "has_rupee_ingot": "2025-03-10 05:01:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-10 04:59:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-10 04:47:19 +0000"
@@ -11230,9 +11400,87 @@
     },
     "done": true
   },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-03-10 04:59:23 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/rupee_minibricks": {
+    "criteria": {
+      "has_ingot": "2025-03-10 05:01:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-03-10 04:59:23 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/raw_arlemite_block": {
+    "criteria": {
+      "has_raw_arlemite": "2025-03-10 04:58:18 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/arlemite_block": {
+    "criteria": {
+      "has_ingot": "2025-03-10 04:58:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-03-10 04:59:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-03-10 04:59:23 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/realmite_sword": {
+    "criteria": {
+      "has_realmite_ingot": "2025-03-10 05:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-10 04:59:23 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2025-03-10 04:45:54 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/rupee_block": {
+    "criteria": {
+      "has_ingot": "2025-03-10 05:01:42 +0000"
+    },
+    "done": true
+  },
+  "xercapaint:recipes/item_canvas": {
+    "criteria": {
+      "has_item": "2025-03-10 04:59:23 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/arlemite_hoe": {
+    "criteria": {
+      "has_ingot": "2025-03-10 04:58:04 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-03-10 04:59:23 +0000"
     },
     "done": true
   },
@@ -11242,9 +11490,21 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/realmite_axe": {
+    "criteria": {
+      "has_ingot": "2025-03-10 05:01:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-10 04:47:19 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/palavence": {
+    "criteria": {
+      "has_realmite_ingot": "2025-03-10 05:01:05 +0000"
     },
     "done": true
   },
@@ -11254,9 +11514,51 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/realmite_bricks": {
+    "criteria": {
+      "has_ingot": "2025-03-10 05:01:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-10 04:47:19 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shapeless/realmite_nugget": {
+    "criteria": {
+      "has_ingot": "2025-03-10 05:01:05 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/realmite_boots": {
+    "criteria": {
+      "has_realmite_ingot": "2025-03-10 05:01:05 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shapeless/shadow_bar": {
+    "criteria": {
+      "has_arlemite": "2025-03-10 04:58:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-03-10 04:59:23 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/template_manager": {
+    "criteria": {
+      "has_paper": "2025-03-10 04:59:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:husbandry/sus_stew": {
+    "criteria": {
+      "stew": "2025-03-10 04:56:42 +0000"
     },
     "done": true
   },
@@ -11272,9 +11574,51 @@
     },
     "done": false
   },
+  "divinerpg:recipes/blasting/arlemite_ingot_from_raw_arlemite": {
+    "criteria": {
+      "has_raw_arlemite": "2025-03-10 04:58:18 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/arlemite_axe": {
+    "criteria": {
+      "has_ingot": "2025-03-10 04:58:04 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shapeless/corrupted_bullet": {
+    "criteria": {
+      "has_shards": "2025-03-10 04:58:04 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/rupee_boots": {
+    "criteria": {
+      "has_rupee_ingot": "2025-03-10 05:01:42 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/realmite_lamp": {
+    "criteria": {
+      "has_ingot": "2025-03-10 05:01:05 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/rupee_axe": {
+    "criteria": {
+      "has_ingot": "2025-03-10 05:01:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-10 04:47:19 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/arlemite_bricks": {
+    "criteria": {
+      "has_ingot": "2025-03-10 04:58:04 +0000"
     },
     "done": true
   },
@@ -11284,15 +11628,75 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/rupee_chestplate": {
+    "criteria": {
+      "has_rupee_ingot": "2025-03-10 05:01:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-03-10 04:59:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-10 04:47:19 +0000"
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/realmite_helmet": {
+    "criteria": {
+      "has_realmite_ingot": "2025-03-10 05:01:05 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/arlemite_helmet": {
+    "criteria": {
+      "has_arlemite_ingot": "2025-03-10 04:58:04 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/rupee_lamp": {
+    "criteria": {
+      "has_ingot": "2025-03-10 05:01:42 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/rupee_shield": {
+    "criteria": {
+      "has_ingot": "2025-03-10 05:01:42 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/rupee_hoe": {
+    "criteria": {
+      "has_ingot": "2025-03-10 05:01:42 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/corrupted_stone": {
+    "criteria": {
+      "has_shards": "2025-03-10 04:58:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-10 04:47:19 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/rupee_shovel": {
+    "criteria": {
+      "has_ingot": "2025-03-10 05:01:42 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/realmite_minibricks": {
+    "criteria": {
+      "has_ingot": "2025-03-10 05:01:05 +0000"
     },
     "done": true
   },

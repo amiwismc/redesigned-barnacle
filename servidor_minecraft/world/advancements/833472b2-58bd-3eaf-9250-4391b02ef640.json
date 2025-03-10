@@ -9689,6 +9689,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2025-03-10 04:59:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-03-10 04:02:44 +0000"
@@ -9920,6 +9926,12 @@
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-03-10 04:28:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-03-10 04:52:34 +0000"
     },
     "done": true
   },
@@ -10157,6 +10169,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-03-10 05:01:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-03-10 03:46:32 +0000"
@@ -10310,6 +10328,12 @@
   "divinerpg:recipes/shapeless/blue_vane": {
     "criteria": {
       "has_obsidian": "2025-03-10 03:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-03-10 05:01:20 +0000"
     },
     "done": true
   },
@@ -10583,6 +10607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-03-10 05:01:20 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_barrel": {
     "criteria": {
       "has_slabs": "2025-03-10 03:38:52 +0000"
@@ -10661,6 +10691,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-10 05:01:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-03-10 04:17:22 +0000"
@@ -10712,6 +10748,12 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-03-10 04:15:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-03-10 05:01:19 +0000"
     },
     "done": true
   },
@@ -10778,6 +10820,12 @@
   "mca:recipes/decorations/light_gray_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-03-10 03:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-03-10 05:01:20 +0000"
     },
     "done": true
   },
@@ -11045,6 +11093,12 @@
     },
     "done": true
   },
+  "chiselsandbits:recipes/tools/quill": {
+    "criteria": {
+      "has_tag_a": "2025-03-10 05:01:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-03-10 03:32:11 +0000"
@@ -11171,6 +11225,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-03-10 05:01:57 +0000"
+    },
+    "done": true
+  },
   "divinerpg:recipes/shaped/rupee_axe": {
     "criteria": {
       "has_ingot": "2025-03-10 04:33:55 +0000"
@@ -11234,6 +11294,12 @@
   "mca:recipes/decorations/white_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-03-10 03:35:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-03-10 05:01:19 +0000"
     },
     "done": true
   },
@@ -11435,6 +11501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-03-10 05:01:19 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/globe_sepia": {
     "criteria": {
       "has_antique_ink": "2025-03-10 03:16:16 +0000"
@@ -11450,6 +11522,12 @@
   "twilightforest:recipes/decorations/wood/oak_banister": {
     "criteria": {
       "has_item": "2025-03-10 03:38:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-03-10 05:01:19 +0000"
     },
     "done": true
   },
@@ -11618,6 +11696,12 @@
   "galosphere:recipes/building_blocks/chiseled_amethyst_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-03-10 03:32:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-03-10 05:01:57 +0000"
     },
     "done": true
   },
