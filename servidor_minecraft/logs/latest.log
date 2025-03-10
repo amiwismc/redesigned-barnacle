@@ -4413,3 +4413,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Mar2025 02:14:34.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Not Today, Thank You]
 [10Mar2025 02:24:04.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 was slain by Cave Centipede
 [10Mar2025 02:24:05.564] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Mar2025 02:37:47.956] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Disconnected
+[10Mar2025 02:37:47.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[10Mar2025 02:37:47.960] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client marcouwu2005
+[10Mar2025 02:39:43.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 was slain by Mutant Skeleton
+[10Mar2025 02:39:45.491] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.

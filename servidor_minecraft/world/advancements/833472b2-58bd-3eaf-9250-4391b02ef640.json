@@ -2590,6 +2590,12 @@
     },
     "done": true
   },
+  "hopo:minecraft/adventure/all_mineshaft": {
+    "criteria": {
+      "locate_vanilla_mineshaft": "2025-03-10 02:26:26 +0000"
+    },
+    "done": false
+  },
   "ecologics:recipes/ecologics/azalea_boat": {
     "criteria": {
       "in_water": "2025-03-10 01:31:29 +0000"
@@ -3694,6 +3700,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/misc/crafting/lapis_lazuli_from_lapis_lazuli_shard": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-10 02:33:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-03-10 02:13:40 +0000"
@@ -3991,6 +4003,12 @@
   "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-03-10 01:40:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-10 02:33:31 +0000"
     },
     "done": true
   },
@@ -4435,9 +4453,21 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/lapis_lazuli_bricks": {
+    "criteria": {
+      "has_lapis": "2025-03-10 02:33:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-03-10 02:20:11 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/lapis_lazuli_lamp": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-10 02:33:31 +0000"
     },
     "done": true
   },
@@ -5014,6 +5044,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-03-10 02:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-10 02:33:31 +0000"
     },
     "done": true
   },
@@ -6224,6 +6260,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2025-03-10 02:33:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-03-10 02:20:11 +0000"
@@ -7034,6 +7076,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/misc/spawner_frame": {
+    "criteria": {
+      "has_spawner_fragment": "2025-03-10 02:30:32 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_brown": {
     "criteria": {
       "has_iron_ingot": "2025-03-10 01:59:34 +0000"
@@ -7614,6 +7662,12 @@
   "divinerpg:recipes/shaped/red_steel": {
     "criteria": {
       "has_ingot": "2025-03-10 01:59:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-10 02:33:31 +0000"
     },
     "done": true
   },
@@ -8748,6 +8802,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.base/crafting/bury_blend": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-10 02:33:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-03-10 01:32:21 +0000"
@@ -8979,6 +9039,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_basin": {
     "criteria": {
       "has_iron_ingot": "2025-03-10 01:59:35 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/blue_stone": {
+    "criteria": {
+      "has_lapis": "2025-03-10 02:33:31 +0000"
     },
     "done": true
   },
@@ -9219,6 +9285,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-03-10 02:07:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-10 02:33:31 +0000"
     },
     "done": true
   },
