@@ -4158,3 +4158,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Mar2025 03:40:22.500] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [10Mar2025 03:40:49.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 drowned
 [10Mar2025 03:40:50.550] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Mar2025 03:46:50.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Disme A Dozen]
+[10Mar2025 03:48:06.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Diamonds!]
+[10Mar2025 03:48:44.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Ice Bucket Challenge]
+[10Mar2025 03:50:21.555] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Emelie'/9927, l='ServerLevel[world]', x=-384.32, y=2.26, z=203.32] died: Emelie was slain by ari_fl08
