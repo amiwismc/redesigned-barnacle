@@ -2536,6 +2536,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
   "mutantmonsters:root": {
     "criteria": {
       "killed_something": "2025-03-10 01:32:14 +0000"
@@ -2545,6 +2551,12 @@
   "smallships:recipes/transportation/bamboo_galley": {
     "criteria": {
       "in_water": "2025-03-10 01:31:29 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
     },
     "done": true
   },
@@ -2602,6 +2614,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-10 02:20:11 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-10 01:47:01 +0000"
@@ -2629,6 +2647,12 @@
   "ironchest:recipes/decorations/upgrades/wood_to_iron_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-03-10 01:59:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-10 02:22:58 +0000"
     },
     "done": true
   },
@@ -2860,6 +2884,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-03-10 01:31:29 +0000"
@@ -2875,6 +2905,12 @@
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2025-03-10 01:31:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-03-10 02:22:20 +0000"
     },
     "done": true
   },
@@ -2896,6 +2932,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-10 02:20:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-03-10 01:59:35 +0000"
@@ -2911,6 +2953,12 @@
   "betterarcheology:recipes/recipe_iron_brush": {
     "criteria": {
       "has_item": "2025-03-10 01:59:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-10 02:22:58 +0000"
     },
     "done": true
   },
@@ -2974,6 +3022,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-03-10 01:59:35 +0000"
@@ -3019,6 +3073,18 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-03-10 01:59:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-03-10 02:20:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-10 02:22:58 +0000"
     },
     "done": true
   },
@@ -3112,6 +3178,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_tile_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-03-10 01:32:21 +0000"
@@ -3145,6 +3217,12 @@
   "ae2:recipes/misc/network/cables/dense_smart_fluix": {
     "criteria": {
       "has_dusts/redstone": "2025-03-10 02:13:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-03-10 02:20:11 +0000"
     },
     "done": true
   },
@@ -3226,6 +3304,12 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/skeleton_pumpkin": {
+    "criteria": {
+      "has_bone": "2025-03-10 02:15:19 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_bamboo_fence": {
     "criteria": {
       "has_stick": "2025-03-10 01:36:02 +0000"
@@ -3271,6 +3355,12 @@
   "mcwroofs:recipes/awning": {
     "criteria": {
       "has_planks": "2025-03-10 01:32:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_shingle_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
     },
     "done": true
   },
@@ -3328,6 +3418,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_tuff_brick_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-03-10 02:06:34 +0000"
@@ -3343,6 +3439,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-03-10 01:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-03-10 02:16:31 +0000"
     },
     "done": true
   },
@@ -3388,6 +3490,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-03-10 01:59:34 +0000"
@@ -3421,6 +3529,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence": {
     "criteria": {
       "has_stick": "2025-03-10 01:36:02 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_plates_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
     },
     "done": true
   },
@@ -3496,6 +3610,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-10 02:20:11 +0000"
+    },
+    "done": true
+  },
   "divinerpg:recipes/shaped/realmite_shield": {
     "criteria": {
       "has_ingot": "2025-03-10 02:10:55 +0000"
@@ -3505,6 +3625,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_basin": {
     "criteria": {
       "has_iron_ingot": "2025-03-10 01:59:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-10 02:22:58 +0000"
     },
     "done": true
   },
@@ -3598,6 +3724,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_basin": {
     "criteria": {
       "has_iron_ingot": "2025-03-10 01:59:34 +0000"
@@ -3616,6 +3748,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_paver_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:story/root": {
     "criteria": {
       "obtain_crafting_table": "2025-03-10 01:36:18 +0000"
@@ -3625,6 +3763,12 @@
   "smallships:recipes/transportation/mangrove_galley": {
     "criteria": {
       "in_water": "2025-03-10 01:31:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-03-10 02:22:20 +0000"
     },
     "done": true
   },
@@ -3778,6 +3922,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-03-10 02:15:19 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2025-03-10 01:31:29 +0000"
@@ -3787,6 +3937,18 @@
   "buildinggadgets2:recipes/misc/gadget_building": {
     "criteria": {
       "has_diamond": "2025-03-10 02:07:11 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/bone_chest": {
+    "criteria": {
+      "has_bone": "2025-03-10 02:15:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_plate_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
     },
     "done": true
   },
@@ -3896,13 +4058,20 @@
     "criteria": {
       "cooked_porkchop": "2025-03-10 02:11:58 +0000",
       "cooked_mutton": "2025-03-10 01:44:11 +0000",
-      "cooked_beef": "2025-03-10 01:31:12 +0000"
+      "cooked_beef": "2025-03-10 01:31:12 +0000",
+      "baked_potato": "2025-03-10 02:22:33 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/black_stool": {
     "criteria": {
       "has_white_wool": "2025-03-10 01:32:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
     },
     "done": true
   },
@@ -3975,6 +4144,12 @@
   "refurbished_furniture:recipes/misc/constructing/pink_stool": {
     "criteria": {
       "has_white_wool": "2025-03-10 01:32:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_tuff_brick_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
     },
     "done": true
   },
@@ -4068,6 +4243,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-10 02:21:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-10 02:20:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-03-10 01:59:34 +0000"
@@ -4080,6 +4267,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-03-10 02:20:11 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/backpack_tank": {
     "criteria": {
       "has_iron": "2025-03-10 01:59:35 +0000"
@@ -4089,6 +4282,12 @@
   "ae2:recipes/misc/decorative/light_detector": {
     "criteria": {
       "has_iron_ingot": "2025-03-10 01:59:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-03-10 02:21:08 +0000"
     },
     "done": true
   },
@@ -4134,6 +4333,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-10 02:20:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-03-10 01:40:07 +0000"
@@ -4161,6 +4366,12 @@
   "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2025-03-10 02:13:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-10 02:22:58 +0000"
     },
     "done": true
   },
@@ -4224,6 +4435,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-10 02:20:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-10 02:20:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/baking/baked_potato": {
     "criteria": {
       "has_ingredient": "2025-03-10 02:04:49 +0000"
@@ -4284,6 +4507,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-03-10 02:20:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-03-10 02:18:34 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_andesite_brick_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-10 01:47:01 +0000"
@@ -4326,9 +4561,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-03-10 02:20:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_cooler": {
     "criteria": {
       "has_planks": "2025-03-10 01:39:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_pickaxe_repairing": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-03-10 02:16:31 +0000"
     },
     "done": true
   },
@@ -4410,6 +4657,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-03-10 02:20:11 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/misc/sail": {
     "criteria": {
       "in_water": "2025-03-10 01:31:29 +0000"
@@ -4431,6 +4684,12 @@
   "aquaculture:recipes/tools/wooden_fillet_knife": {
     "criteria": {
       "has_items": "2025-03-10 01:36:02 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
     },
     "done": true
   },
@@ -4494,6 +4753,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-10 02:20:11 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-10 01:40:55 +0000"
@@ -4539,6 +4804,12 @@
   "supplementaries:recipes/clock_block": {
     "criteria": {
       "minecraft:planks": "2025-03-10 01:39:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-03-10 02:20:11 +0000"
     },
     "done": true
   },
@@ -4605,6 +4876,12 @@
   "mcwlights:recipes/tiki_torches": {
     "criteria": {
       "has_the_recipe": "2025-03-10 01:43:13 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_plate_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
     },
     "done": true
   },
@@ -4692,6 +4969,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_shingle_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/light_electricity_generator": {
     "criteria": {
       "has_iron_ingot": "2025-03-10 01:59:35 +0000"
@@ -4728,6 +5011,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-10 02:20:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_bath": {
     "criteria": {
       "has_iron_ingot": "2025-03-10 01:59:35 +0000"
@@ -4746,9 +5035,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2025-03-10 01:32:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
     },
     "done": true
   },
@@ -4848,6 +5149,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_paver_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/lava_lamp": {
     "criteria": {
       "has_wood": "2025-03-10 01:59:35 +0000"
@@ -4887,6 +5194,18 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-10 01:47:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-03-10 02:20:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-03-10 02:20:11 +0000"
     },
     "done": true
   },
@@ -4944,9 +5263,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-10 02:20:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/green_cooler": {
     "criteria": {
       "has_planks": "2025-03-10 01:39:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_whispering": {
+    "criteria": {
+      "has_logs": "2025-03-10 02:15:19 +0000"
     },
     "done": true
   },
@@ -5004,6 +5335,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_tiles_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_cooler": {
     "criteria": {
       "has_planks": "2025-03-10 01:39:01 +0000"
@@ -5031,6 +5368,12 @@
   "refurbished_furniture:recipes/misc/constructing/blue_lamp": {
     "criteria": {
       "has_white_wool": "2025-03-10 01:32:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-10 02:20:11 +0000"
     },
     "done": true
   },
@@ -5067,6 +5410,12 @@
   "dungeonnowloading:recipes/combat/explosive_barrel": {
     "criteria": {
       "has_gunpowder": "2025-03-10 02:07:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
     },
     "done": true
   },
@@ -5148,6 +5497,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_shingles_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/claymore": {
     "criteria": {
       "has_redstone": "2025-03-10 02:13:40 +0000"
@@ -5184,6 +5539,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-03-10 02:15:19 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_stool": {
     "criteria": {
       "has_white_wool": "2025-03-10 01:32:42 +0000"
@@ -5211,6 +5572,12 @@
   "smallships:recipes/transportation/cherry_galley": {
     "criteria": {
       "in_water": "2025-03-10 01:31:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-10 02:22:58 +0000"
     },
     "done": true
   },
@@ -5305,6 +5672,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dirt_washed_red.json": {
     "criteria": {
       "has_dirt": "2025-03-10 01:41:00 +0000"
@@ -5329,6 +5702,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-10 02:20:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-10 01:40:55 +0000"
@@ -5344,6 +5723,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-10 02:12:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-10 02:22:58 +0000"
     },
     "done": true
   },
@@ -5575,6 +5960,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-03-10 02:20:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-03-10 01:31:29 +0000"
@@ -5587,9 +5978,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-10 02:20:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-03-10 01:59:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-10 02:22:58 +0000"
     },
     "done": true
   },
@@ -5608,6 +6011,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-03-10 01:32:16 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_tile_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
     },
     "done": true
   },
@@ -5680,6 +6089,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-03-10 01:59:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-03-10 02:20:11 +0000"
     },
     "done": true
   },
@@ -5809,6 +6224,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-10 02:20:11 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_orange": {
     "criteria": {
       "has_iron_ingot": "2025-03-10 01:59:35 +0000"
@@ -5935,15 +6356,39 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_tuff_brick_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
   "divinerpg:recipes/shaped/teal_steel": {
     "criteria": {
       "has_ingot": "2025-03-10 01:59:35 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dirt_washed_orange.json": {
     "criteria": {
       "has_dirt": "2025-03-10 01:41:00 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-03-10 02:22:20 +0000"
     },
     "done": true
   },
@@ -5974,6 +6419,12 @@
   "ironchest:recipes/decorations/chests/vanilla_iron_chest": {
     "criteria": {
       "has_iron_ingot": "2025-03-10 01:59:35 +0000"
+    },
+    "done": true
+  },
+  "immersive_melodies:misc/instruments": {
+    "criteria": {
+      "has_item": "2025-03-10 02:20:11 +0000"
     },
     "done": true
   },
@@ -6091,6 +6542,12 @@
     },
     "done": true
   },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-03-10 02:20:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_crimson_fence": {
     "criteria": {
       "has_stick": "2025-03-10 01:36:02 +0000"
@@ -6169,6 +6626,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mining_boat": {
     "criteria": {
       "in_water": "2025-03-10 01:31:29 +0000"
@@ -6214,6 +6677,18 @@
   "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-03-10 01:40:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/tools/glow_flare": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-10 02:20:11 +0000"
     },
     "done": true
   },
@@ -6265,6 +6740,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_tile_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_andesite_brick_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-10 01:47:01 +0000"
@@ -6277,9 +6758,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-03-10 02:15:19 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/faucet": {
     "criteria": {
       "forge:rods/wooden": "2025-03-10 01:36:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-03-10 02:20:11 +0000"
     },
     "done": true
   },
@@ -6391,9 +6884,33 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_paver_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_warped_fence": {
     "criteria": {
       "has_stick": "2025-03-10 01:36:02 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_pillar_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-03-10 02:15:19 +0000"
     },
     "done": true
   },
@@ -6412,6 +6929,24 @@
   "new_slab_variants:recipes/building_blocks/white_wool_slab": {
     "criteria": {
       "has_white_wool": "2025-03-10 01:32:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_pavers_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/bone_knife": {
+    "criteria": {
+      "has_bones": "2025-03-10 02:15:19 +0000"
     },
     "done": true
   },
@@ -6442,6 +6977,12 @@
   "refurbished_furniture:recipes/misc/knife": {
     "criteria": {
       "has_string": "2025-03-10 01:32:16 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
     },
     "done": true
   },
@@ -6517,6 +7058,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-03-10 02:20:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-03-10 01:59:35 +0000"
@@ -6556,6 +7103,12 @@
   "refurbished_furniture:recipes/misc/wrench": {
     "criteria": {
       "has_string": "2025-03-10 01:32:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-03-10 02:20:11 +0000"
     },
     "done": true
   },
@@ -6842,6 +7395,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-03-10 02:20:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2025-03-10 02:13:40 +0000"
@@ -6992,9 +7551,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_plate_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_brick_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-10 01:40:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-03-10 02:20:11 +0000"
     },
     "done": true
   },
@@ -7130,6 +7701,12 @@
     },
     "done": true
   },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-03-10 02:20:11 +0000"
+    },
+    "done": true
+  },
   "colourfulearth:recipes/decorations/dirt_dyed_lime": {
     "criteria": {
       "has_dirt": "2025-03-10 01:41:00 +0000"
@@ -7148,9 +7725,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-03-10 02:16:31 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_lamp": {
     "criteria": {
       "has_white_wool": "2025-03-10 01:32:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
     },
     "done": true
   },
@@ -7259,6 +7848,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_shingle_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_trampoline": {
     "criteria": {
       "has_string": "2025-03-10 01:32:16 +0000"
@@ -7313,6 +7908,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-10 02:20:11 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-03-10 01:59:34 +0000"
@@ -7352,6 +7953,12 @@
   "stoneworks:recipes/building_blocks/mossy_diorite_brick_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-10 01:40:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-10 02:22:58 +0000"
     },
     "done": true
   },
@@ -7445,9 +8052,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-03-10 02:20:11 +0000"
+    },
+    "done": true
+  },
   "divinerpg:recipes/shapeless/gray_diamond_chunk": {
     "criteria": {
       "has_diamond": "2025-03-10 02:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-10 02:20:11 +0000"
     },
     "done": true
   },
@@ -7496,6 +8115,12 @@
   "chiselsandbits:recipes/tools/bit_storage": {
     "criteria": {
       "has_l": "2025-03-10 01:36:00 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
     },
     "done": true
   },
@@ -7589,6 +8214,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cracked_tuff_tiles_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/sonic_security_system": {
     "criteria": {
       "has_stick": "2025-03-10 01:36:02 +0000"
@@ -7673,6 +8304,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_brick_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-03-10 02:13:40 +0000"
@@ -7754,6 +8391,12 @@
   "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-03-10 01:47:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-10 02:20:11 +0000"
     },
     "done": true
   },
@@ -7919,6 +8562,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dirt_washed_lime.json": {
     "criteria": {
       "has_dirt": "2025-03-10 01:41:00 +0000"
@@ -7940,6 +8589,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-10 02:12:09 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
     },
     "done": true
   },
@@ -7991,6 +8646,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/copper_stuff": {
+    "criteria": {
+      "has_wood": "2025-03-10 02:20:11 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/diorite_pillar_trim": {
     "criteria": {
       "has_diorite_pillar_trim": "2025-03-10 01:40:55 +0000"
@@ -8024,6 +8685,12 @@
   "divinerpg:recipes/shaped/zombie_pumpkin": {
     "criteria": {
       "has_rotten_flesh": "2025-03-10 01:33:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-10 02:22:58 +0000"
     },
     "done": true
   },
@@ -8327,6 +8994,12 @@
     },
     "done": true
   },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-03-10 02:20:11 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-03-10 01:31:29 +0000"
@@ -8363,6 +9036,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:teleportation/is_near_beehive": {
     "criteria": {
       "is_near_beehive": "2025-03-10 01:39:53 +0000"
@@ -8372,6 +9051,12 @@
   "minecraft:recipes/decorations/dirt_washed_black.json": {
     "criteria": {
       "has_dirt": "2025-03-10 01:41:00 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_brick_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
     },
     "done": true
   },
@@ -8423,6 +9108,24 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/tuff_slab": {
+    "criteria": {
+      "has_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-03-10 02:20:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-10 02:22:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2025-03-10 01:32:42 +0000"
@@ -8450,6 +9153,12 @@
   "mcwbridges:recipes/cobblestone_bridge_stair": {
     "criteria": {
       "has_planks": "2025-03-10 01:40:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-03-10 02:21:08 +0000"
     },
     "done": true
   },
@@ -8492,6 +9201,12 @@
   "exposure:recipes/tools/camera": {
     "criteria": {
       "has_iron": "2025-03-10 01:59:35 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2025-03-10 02:20:11 +0000"
     },
     "done": true
   },
@@ -8552,6 +9267,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-03-10 01:47:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-10 02:22:58 +0000"
     },
     "done": true
   },
