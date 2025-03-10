@@ -2488,7 +2488,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-03-10 04:20:02 +0000",
       "minecraft:beach": "2025-03-10 01:36:30 +0000",
+      "minecraft:river": "2025-03-10 04:23:35 +0000",
       "minecraft:ocean": "2025-03-10 02:04:52 +0000",
       "minecraft:plains": "2025-03-10 01:13:53 +0000"
     },
@@ -3784,6 +3786,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2025-03-10 03:09:50 +0000",
+      "orchard": "2025-03-10 04:23:57 +0000",
       "redwood_forest": "2025-03-10 01:33:25 +0000"
     },
     "done": false
@@ -9559,6 +9562,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-10 04:11:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_table": {
     "criteria": {
       "has_spruce_planks": "2025-03-10 03:35:15 +0000"
@@ -9622,6 +9631,12 @@
   "create_dd:recipes/create_dd.palettes/polished_cut_amethyst_block_from_stone_types_amethyst_block_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst_block": "2025-03-10 03:32:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-03-10 04:24:14 +0000"
     },
     "done": true
   },
@@ -9739,6 +9754,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-03-10 04:24:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-03-10 03:10:59 +0000"
@@ -9754,6 +9775,18 @@
   "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-03-10 03:48:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-03-10 04:17:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-03-10 04:17:38 +0000"
     },
     "done": true
   },
@@ -9859,6 +9892,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-03-10 04:28:45 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/stripped_spruce_log_slab": {
+    "criteria": {
+      "has_stripped_spruce_log": "2025-03-10 04:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-03-10 04:24:06 +0000"
+    },
+    "done": true
+  },
   "divinerpg:recipes/shaped/ender_pumpkin": {
     "criteria": {
       "has_ender_pearl": "2025-03-10 04:03:33 +0000"
@@ -9901,6 +9952,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/bricks": {
+    "criteria": {
+      "has_wood": "2025-03-10 04:28:45 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_fancy_bed": {
     "criteria": {
       "has_spruce_fancy_bed": "2025-03-10 03:35:15 +0000"
@@ -9922,6 +9979,12 @@
   "handcrafted:recipes/misc/spruce_cupboard": {
     "criteria": {
       "has_spruce_cupboard": "2025-03-10 03:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-03-10 04:11:57 +0000"
     },
     "done": true
   },
@@ -9964,6 +10027,12 @@
   "mcwbridges:recipes/rope_spruce_bridge": {
     "criteria": {
       "has_planks": "2025-03-10 03:35:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-10 04:11:57 +0000"
     },
     "done": true
   },
@@ -10051,6 +10120,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-03-10 04:24:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-03-10 03:46:32 +0000"
@@ -10060,6 +10135,12 @@
   "create:recipes/building_blocks/spruce_window": {
     "criteria": {
       "has_ingredient": "2025-03-10 03:35:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_brick": "2025-03-10 04:28:45 +0000"
     },
     "done": true
   },
@@ -10123,9 +10204,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-03-10 04:17:35 +0000"
+    },
+    "done": true
+  },
   "mekanism:materials": {
     "criteria": {
       "material": "2025-03-10 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oven": {
+    "criteria": {
+      "has_oven": "2025-03-10 04:28:45 +0000"
     },
     "done": true
   },
@@ -10177,6 +10270,18 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2025-03-10 04:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-03-10 04:11:57 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_calcite_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-03-10 03:32:11 +0000"
@@ -10192,6 +10297,12 @@
   "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-03-10 03:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-03-10 04:28:45 +0000"
     },
     "done": true
   },
@@ -10273,6 +10384,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-03-10 04:15:42 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_shingles_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-03-10 03:32:11 +0000"
@@ -10282,6 +10399,12 @@
   "supplementaries:recipes/key": {
     "criteria": {
       "has_gold_ingot": "2025-03-10 03:46:32 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
+    "criteria": {
+      "has_red_mushroom": "2025-03-10 04:11:57 +0000"
     },
     "done": true
   },
@@ -10477,6 +10600,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-03-10 04:17:22 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/cut_amethyst_block_from_stone_types_amethyst_block_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst_block": "2025-03-10 03:32:14 +0000"
@@ -10519,6 +10648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-03-10 04:15:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-03-10 03:35:15 +0000"
@@ -10534,6 +10669,48 @@
   "aether:recipes/combat/golden_ring": {
     "criteria": {
       "has_gold_ingot": "2025-03-10 03:46:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_14": {
+    "criteria": {
+      "has_item": "2025-03-10 04:11:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_15": {
+    "criteria": {
+      "has_item": "2025-03-10 04:11:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_10": {
+    "criteria": {
+      "has_item": "2025-03-10 04:11:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_11": {
+    "criteria": {
+      "has_item": "2025-03-10 04:11:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_12": {
+    "criteria": {
+      "has_item": "2025-03-10 04:11:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_13": {
+    "criteria": {
+      "has_item": "2025-03-10 04:11:57 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-03-10 04:22:05 +0000"
     },
     "done": true
   },
@@ -10570,6 +10747,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-03-10 03:46:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2025-03-10 04:17:31 +0000"
     },
     "done": true
   },
@@ -10711,6 +10894,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-03-10 04:28:45 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_pavers_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-03-10 03:32:11 +0000"
@@ -10753,6 +10942,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/spruce_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-03-10 04:15:42 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/brown_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-03-10 03:35:15 +0000"
@@ -10786,6 +10981,12 @@
   "galosphere:recipes/decorations/gilded_beads": {
     "criteria": {
       "has_gold_ingot": "2025-03-10 03:46:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-03-10 04:17:22 +0000"
     },
     "done": true
   },
@@ -10891,6 +11092,12 @@
     },
     "done": true
   },
+  "justaraftmod:recipes/transportation/spruce_raft": {
+    "criteria": {
+      "has_log": "2025-03-10 04:15:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_storage_cabinet": {
     "criteria": {
       "has_spruce_planks": "2025-03-10 03:35:15 +0000"
@@ -10912,6 +11119,12 @@
   "ars_nouveau:warp_scroll": {
     "criteria": {
       "has_warp_scroll": "2025-03-10 03:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-10 04:15:42 +0000"
     },
     "done": true
   },
@@ -11011,6 +11224,66 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mushroom_0": {
+    "criteria": {
+      "has_item": "2025-03-10 04:11:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_1": {
+    "criteria": {
+      "has_item": "2025-03-10 04:11:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_2": {
+    "criteria": {
+      "has_item": "2025-03-10 04:11:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_3": {
+    "criteria": {
+      "has_item": "2025-03-10 04:11:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_4": {
+    "criteria": {
+      "has_item": "2025-03-10 04:11:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_5": {
+    "criteria": {
+      "has_item": "2025-03-10 04:11:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_6": {
+    "criteria": {
+      "has_item": "2025-03-10 04:11:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_7": {
+    "criteria": {
+      "has_item": "2025-03-10 04:11:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_8": {
+    "criteria": {
+      "has_item": "2025-03-10 04:11:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_9": {
+    "criteria": {
+      "has_item": "2025-03-10 04:11:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
     "criteria": {
       "has_bread": "2025-03-10 03:37:23 +0000"
@@ -11080,6 +11353,12 @@
   "mcwroofs:recipes/spruce_planks": {
     "criteria": {
       "has_planks": "2025-03-10 03:35:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/transportation/ghost_rail": {
+    "criteria": {
+      "has_item": "2025-03-10 04:24:06 +0000"
     },
     "done": true
   },
@@ -11206,6 +11485,12 @@
   "blue_skies:recipes/building_blocks/trough": {
     "criteria": {
       "has_item": "2025-03-10 03:38:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-03-10 04:28:45 +0000"
     },
     "done": true
   },

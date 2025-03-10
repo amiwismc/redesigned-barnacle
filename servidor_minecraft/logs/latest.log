@@ -4392,3 +4392,26 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Mar2025 04:11:44.620] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
 [10Mar2025 04:11:44.630] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
 [10Mar2025 04:12:03.729] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Valborg'/9905, l='ServerLevel[world]', x=-401.51, y=-28.00, z=96.49] died: Valborg fell from a high place
+[10Mar2025 04:15:26.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Close Quarters]
+[10Mar2025 04:16:08.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Wax Off]
+[10Mar2025 04:16:13.318] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Solveig'/10805, l='ServerLevel[world]', x=-528.50, y=2.56, z=169.49] died: Solveig was pricked to death
+[10Mar2025 04:17:22.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Cover Me with Diamonds]
+[10Mar2025 04:17:31.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Suit Up]
+[10Mar2025 04:18:17.356] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Esther'/10496, l='ServerLevel[world]', x=-504.18, y=3.71, z=210.50] died: Esther was slain by ari_fl08
+[10Mar2025 04:18:19.750] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[10Mar2025 04:18:31.827] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: kaisyn:village/exclusives/mediterranean/villager_bishop
+[10Mar2025 04:18:37.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9227ms or 184 ticks behind
+[10Mar2025 04:18:59.921] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
+[10Mar2025 04:19:37.666] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18262, l='ServerLevel[world]', x=-560.50, y=72.00, z=141.50]
+[10Mar2025 04:20:02.724] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18427, l='ServerLevel[world]', x=-586.50, y=71.00, z=165.50]
+[10Mar2025 04:20:18.220] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18500, l='ServerLevel[world]', x=-559.50, y=73.00, z=135.50]
+[10Mar2025 04:20:27.418] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18552, l='ServerLevel[world]', x=-559.50, y=72.00, z=141.50]
+[10Mar2025 04:20:52.892] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Emmy'/9919, l='ServerLevel[world]', x=-390.82, y=4.00, z=174.93] died: Emmy was shot by Skeleton
+[10Mar2025 04:21:14.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Warped]
+[10Mar2025 04:22:05.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Penteconter]
+[10Mar2025 04:23:02.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Penteconter]
+[10Mar2025 04:25:45.465] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19817, l='ServerLevel[world]', x=-453.50, y=73.00, z=-0.50]
+[10Mar2025 04:27:37.441] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Caroline'/9909, l='ServerLevel[world]', x=-384.28, y=4.96, z=67.72] died: Caroline was slain by ari_fl08
+[10Mar2025 04:33:36.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Eye of Evil]
+[10Mar2025 04:33:50.020] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/21442, l='ServerLevel[world]', x=-451.50, y=73.00, z=-0.50]
+[10Mar2025 04:33:51.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Eye of Evil]

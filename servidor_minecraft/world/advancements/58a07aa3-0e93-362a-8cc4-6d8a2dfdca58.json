@@ -2519,6 +2519,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-03-10 01:34:28 +0000",
+      "minecraft:river": "2025-03-10 04:22:44 +0000",
       "minecraft:ocean": "2025-03-10 03:25:31 +0000",
       "minecraft:plains": "2025-03-07 21:02:43 +0000"
     },
@@ -3651,6 +3652,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-10 01:36:38 +0000",
       "minecraft:spider": "2025-03-10 03:22:45 +0000",
+      "minecraft:witch": "2025-03-10 04:22:55 +0000",
       "minecraft:cave_spider": "2025-03-10 02:12:15 +0000",
       "minecraft:enderman": "2025-03-10 01:32:22 +0000",
       "minecraft:zombie": "2025-03-10 01:34:54 +0000"
@@ -3690,6 +3692,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2025-03-10 01:33:34 +0000",
+      "orchard": "2025-03-10 04:23:08 +0000",
       "redwood_forest": "2025-03-10 01:33:22 +0000"
     },
     "done": false
@@ -10264,15 +10267,39 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/dark_bridge": {
+    "criteria": {
+      "has_dust": "2025-03-10 04:21:26 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/layered_netherrack_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-03-10 04:08:13 +0000"
     },
     "done": true
   },
+  "nethersdelight:recipes/tools/golden_machete": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-10 04:12:07 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-03-10 04:08:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-10 04:12:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-10 04:12:07 +0000"
     },
     "done": true
   },
@@ -10294,6 +10321,36 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-10 04:12:07 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-10 04:22:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-10 04:22:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-10 04:12:07 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/gold_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-03-10 04:12:07 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/cut_netherrack_slab_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-03-10 04:08:13 +0000"
@@ -10306,9 +10363,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-10 04:12:07 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/tools/calendar": {
+    "criteria": {
+      "has_clock": "2025-03-10 04:18:00 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/cut_netherrack_brick_slab_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-03-10 04:08:13 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:wickpiercer": {
+    "criteria": {
+      "requirement": "2025-03-10 04:16:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-10 04:12:07 +0000"
     },
     "done": true
   },
@@ -10324,6 +10405,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-03-10 04:28:33 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-03-10 04:08:13 +0000"
@@ -10333,6 +10420,12 @@
   "create_dd:recipes/create_dd.palettes/polished_cut_netherrack_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-03-10 04:08:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-03-10 04:22:56 +0000"
     },
     "done": true
   },
@@ -10348,6 +10441,30 @@
     },
     "done": true
   },
+  "barteringstation:recipes/decorations/bartering_station": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-10 04:12:07 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-10 04:12:07 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-03-10 04:21:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_pendant": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-10 04:12:07 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-03-10 04:08:13 +0000"
@@ -10357,6 +10474,24 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-03-10 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-10 04:12:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-10 04:22:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-10 04:22:21 +0000"
     },
     "done": true
   },
@@ -10378,15 +10513,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-10 04:12:07 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/cut_netherrack_stairs_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-03-10 04:08:13 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_brick": "2025-03-10 04:28:33 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_netherrack_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-03-10 04:08:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-03-10 04:22:17 +0000"
     },
     "done": true
   },
@@ -10414,15 +10567,51 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-03-10 04:15:26 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/donut": {
+    "criteria": {
+      "has_sugar": "2025-03-10 04:22:56 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/mysterious_clock": {
+    "criteria": {
+      "has_clock": "2025-03-10 04:18:00 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/small_netherrack_brick_slab_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-03-10 04:08:13 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-10 04:21:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oven": {
+    "criteria": {
+      "has_oven": "2025-03-10 04:28:33 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-03-10 04:08:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-10 04:22:21 +0000"
     },
     "done": true
   },
@@ -10438,6 +10627,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-10 04:22:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-03-10 04:28:33 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-03-10 04:08:13 +0000"
@@ -10447,6 +10648,36 @@
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-03-10 04:08:13 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/twilight_clock": {
+    "criteria": {
+      "has_clock": "2025-03-10 04:18:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-10 04:12:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_gloves": {
+    "criteria": {
+      "has_gold": "2025-03-10 04:12:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-10 04:21:26 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2025-03-10 04:21:26 +0000"
     },
     "done": true
   },
@@ -10462,9 +10693,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-10 04:12:07 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/polished_cut_netherrack_wall_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-03-10 04:08:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-10 04:12:07 +0000"
     },
     "done": true
   },
@@ -10474,15 +10717,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-10 04:12:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-10 04:12:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-10 04:12:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-10 04:17:13 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/bone_block_slab": {
+    "criteria": {
+      "has_bone_block": "2025-03-10 04:17:13 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/amethyst_lamp": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-10 04:22:21 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-03-10 04:08:13 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-10 04:22:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_ring": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-10 04:12:07 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-03-10 04:23:02 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-03-10 04:08:13 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-10 04:12:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-10 04:12:07 +0000"
     },
     "done": true
   },
@@ -10498,6 +10807,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2025-03-10 04:21:26 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/netherrack_brick_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-03-10 04:08:13 +0000"
@@ -10507,6 +10822,18 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-03-10 04:08:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-03-10 04:12:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-10 04:12:07 +0000"
     },
     "done": true
   },
@@ -10522,15 +10849,81 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "has_sugar": "2025-03-10 04:22:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-03-10 04:28:33 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/small_netherrack_brick_wall_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-03-10 04:08:13 +0000"
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/raw_iron_block_slab": {
+    "criteria": {
+      "has_raw_iron_block": "2025-03-10 04:17:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-10 04:22:21 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/gilded_beads": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-10 04:12:07 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/marshmallow_stick": {
+    "criteria": {
+      "has_sugar": "2025-03-10 04:22:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-03-10 04:08:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-03-10 04:18:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-10 04:22:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold_tier_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-10 04:12:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-03-10 04:17:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-10 04:12:07 +0000"
     },
     "done": true
   },
@@ -10543,6 +10936,30 @@
   "supplementaries:recipes/soap/map": {
     "criteria": {
       "has_filled_map": "2025-03-10 04:09:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/speed_up_belt": {
+    "criteria": {
+      "has_item": "2025-03-10 04:18:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-10 04:12:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-03-10 04:22:17 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-03-10 04:21:14 +0000"
     },
     "done": true
   },
@@ -10564,9 +10981,27 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/gold_bricks": {
+    "criteria": {
+      "has_ingot": "2025-03-10 04:12:07 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/gold]": "2025-03-10 04:12:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-03-10 04:08:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_sugar": "2025-03-10 04:22:56 +0000"
     },
     "done": true
   },
@@ -10600,9 +11035,27 @@
     },
     "done": true
   },
+  "mcwlights:recipes/gold_stuff": {
+    "criteria": {
+      "has_wood": "2025-03-10 04:12:07 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_from_glowstone": {
+    "criteria": {
+      "has_item": "2025-03-10 04:21:26 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/netherrack_pillar_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-03-10 04:08:13 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/gold_lamp": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-10 04:12:07 +0000"
     },
     "done": true
   },
@@ -10612,9 +11065,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-03-10 04:28:38 +0000"
+    },
+    "done": false
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-03-10 04:08:13 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/gold_ore_slab": {
+    "criteria": {
+      "has_gold_ore": "2025-03-10 04:22:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-03-10 04:28:33 +0000"
     },
     "done": true
   },
@@ -10627,6 +11098,12 @@
   "supplementaries:recipes/sconce_soul": {
     "criteria": {
       "has_iron_nugget": "2025-03-10 04:08:00 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_hammer": {
+    "criteria": {
+      "has_material": "2025-03-10 04:12:07 +0000"
     },
     "done": true
   },
