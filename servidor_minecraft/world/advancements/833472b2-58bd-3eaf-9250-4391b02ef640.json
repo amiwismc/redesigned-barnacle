@@ -9559,6 +9559,12 @@
     },
     "done": true
   },
+  "divinerpg:recipes/blasting/rupee_ingot_from_raw_rupee": {
+    "criteria": {
+      "has_raw_rupee": "2025-03-10 03:28:25 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/standard_smithing": {
     "criteria": {
       "has_standard": "2025-03-10 03:20:04 +0000"
@@ -9571,15 +9577,51 @@
     },
     "done": true
   },
+  "divinerpg:recipes/smelting/arlemite_ingot_from_raw_arlemite": {
+    "criteria": {
+      "has_raw_arlemite": "2025-03-10 03:27:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2025-03-10 03:10:59 +0000"
     },
     "done": true
   },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2025-03-10 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/raw_arlemite_block": {
+    "criteria": {
+      "has_raw_arlemite": "2025-03-10 03:27:37 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/smelting/rupee_ingot_from_raw_rupee": {
+    "criteria": {
+      "has_raw_rupee": "2025-03-10 03:28:25 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:standard_from_custom": {
     "criteria": {
       "has_backpack": "2025-03-10 03:20:04 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/blasting/arlemite_ingot_from_raw_arlemite": {
+    "criteria": {
+      "has_raw_arlemite": "2025-03-10 03:27:37 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/raw_rupee_block": {
+    "criteria": {
+      "has_raw_rupee": "2025-03-10 03:28:25 +0000"
     },
     "done": true
   },

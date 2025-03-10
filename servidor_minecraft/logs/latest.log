@@ -4140,3 +4140,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Mar2025 03:16:10.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Isn't It Iron Pick]
 [10Mar2025 03:19:45.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Tunnel Treasures]
 [10Mar2025 03:20:55.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Crops of the Wild]
+[10Mar2025 03:23:55.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> [x:-335, y:-6, z:218, dim:minecraft:overworld]
+[10Mar2025 03:27:25.164] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container

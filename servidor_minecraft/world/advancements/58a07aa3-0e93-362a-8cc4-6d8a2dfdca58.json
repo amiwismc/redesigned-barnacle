@@ -2519,6 +2519,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-03-10 01:34:28 +0000",
+      "minecraft:ocean": "2025-03-10 03:25:31 +0000",
       "minecraft:plains": "2025-03-07 21:02:43 +0000"
     },
     "done": false
@@ -3649,6 +3650,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-10 01:36:38 +0000",
+      "minecraft:spider": "2025-03-10 03:22:45 +0000",
       "minecraft:cave_spider": "2025-03-10 02:12:15 +0000",
       "minecraft:enderman": "2025-03-10 01:32:22 +0000",
       "minecraft:zombie": "2025-03-10 01:34:54 +0000"
@@ -6741,6 +6743,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-10 03:22:46 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_green": {
     "criteria": {
       "has_iron_ingot": "2025-03-10 03:16:03 +0000"
@@ -6942,6 +6950,12 @@
   "mcwdoors:recipes/metal": {
     "criteria": {
       "has_wood": "2025-03-10 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2025-03-10 03:29:13 +0000"
     },
     "done": true
   },
@@ -7408,6 +7422,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-10 03:22:46 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/skyroot_iron_vanilla_shield": {
     "criteria": {
       "has_iron_ingot": "2025-03-10 03:16:03 +0000"
@@ -7435,6 +7455,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-03-10 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-03-10 03:21:45 +0000"
     },
     "done": true
   },
