@@ -16512,9 +16512,27 @@
     },
     "done": true
   },
+  "mcwlights:recipes/redstone_slab": {
+    "criteria": {
+      "has_wood": "2025-03-14 17:23:56 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/green_terracotta_slab": {
     "criteria": {
       "has_green_terracotta": "2025-03-14 17:13:51 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lamps_ceilings": {
+    "criteria": {
+      "has_wood": "2025-03-14 17:23:56 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/redstone_lamp_slab": {
+    "criteria": {
+      "has_redstone_lamp": "2025-03-14 17:23:56 +0000"
     },
     "done": true
   },

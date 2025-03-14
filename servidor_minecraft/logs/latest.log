@@ -4629,3 +4629,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [14Mar2025 17:13:01.170] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2198, y=1, z=1390}
 [14Mar2025 17:13:01.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3648ms or 72 ticks behind
 [14Mar2025 17:13:46.740] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2602, y=-8, z=1850}
+[14Mar2025 17:17:04.674] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2536, y=30, z=1915}
+[14Mar2025 17:17:21.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16564ms or 331 ticks behind
+[14Mar2025 17:17:21.303] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2536, y=30, z=1913}
+[14Mar2025 17:17:21.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved too quickly! -3.595714398493783,-4.323061772001264,8.568112552168941
+[14Mar2025 17:17:33.908] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=56, y=-15, z=1683}
+[14Mar2025 17:17:33.908] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=58, y=-15, z=1683}
+[14Mar2025 17:20:44.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2149ms or 42 ticks behind
+[14Mar2025 17:25:13.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3098ms or 61 ticks behind
+[14Mar2025 17:26:41.385] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2419, y=-22, z=1363}
