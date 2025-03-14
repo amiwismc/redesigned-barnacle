@@ -4204,3 +4204,84 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [14Mar2025 21:16:54.311] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 833472b2-58bd-3eaf-9250-4391b02ef640 timed out
 [14Mar2025 21:16:54.311] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player ari_fl08
 [14Mar2025 21:16:54.312] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to ari_fl08
+[14Mar2025 21:17:14.485] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ari_fl08 lost connection: Disconnected
+[14Mar2025 21:17:14.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 left the game
+[14Mar2025 21:17:14.490] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ari_fl08
+[14Mar2025 21:17:43.860] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ari_fl08[/127.136.253.89:41211] logged in with entity id 1316 at (-2268.271504955164, 25.0, 1538.2576142041048)
+[14Mar2025 21:17:43.870] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ari_fl08
+[14Mar2025 21:17:43.871] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ari_fl08
+[14Mar2025 21:17:43.872] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ari_fl08
+[14Mar2025 21:17:43.872] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ari_fl08
+[14Mar2025 21:17:43.875] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ari_fl08
+[14Mar2025 21:17:43.879] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ari_fl08
+[14Mar2025 21:17:43.879] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ari_fl08
+[14Mar2025 21:17:43.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 joined the game
+[14Mar2025 21:17:44.020] [Server thread/INFO] [Jade/]: Syncing config to ari_fl08 (833472b2-58bd-3eaf-9250-4391b02ef640)
+[14Mar2025 21:17:44.714] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ari_fl08 (18)
+[14Mar2025 21:17:44.715] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ari_fl08
+[14Mar2025 21:18:13.168] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 833472b2-58bd-3eaf-9250-4391b02ef640
+[14Mar2025 21:18:14.168] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 833472b2-58bd-3eaf-9250-4391b02ef640
+[14Mar2025 21:18:14.169] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ari_fl08 (833472b2-58bd-3eaf-9250-4391b02ef640) successfully connected to voice chat
+[14Mar2025 21:18:42.793] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nifthy575[/127.63.103.119:57117] logged in with entity id 2036 at (-8.5, 69.0, -8.5)
+[14Mar2025 21:18:42.800] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Nifthy575
+[14Mar2025 21:18:42.801] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Nifthy575
+[14Mar2025 21:18:42.801] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Nifthy575
+[14Mar2025 21:18:42.801] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Nifthy575
+[14Mar2025 21:18:42.804] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Nifthy575
+[14Mar2025 21:18:42.806] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Nifthy575
+[14Mar2025 21:18:42.806] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Nifthy575
+[14Mar2025 21:18:42.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 joined the game
+[14Mar2025 21:18:43.449] [Server thread/INFO] [Jade/]: Syncing config to Nifthy575 (919d09c9-da11-3c4b-9c00-9663445f08e2)
+[14Mar2025 21:18:46.427] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nifthy575 (18)
+[14Mar2025 21:18:46.430] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nifthy575
+[14Mar2025 21:18:56.886] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 919d09c9-da11-3c4b-9c00-9663445f08e2
+[14Mar2025 21:18:57.890] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 919d09c9-da11-3c4b-9c00-9663445f08e2
+[14Mar2025 21:18:57.890] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nifthy575 (919d09c9-da11-3c4b-9c00-9663445f08e2) successfully connected to voice chat
+[14Mar2025 21:19:16.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> bb donde andas
+[14Mar2025 21:21:19.250] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_3199
+[14Mar2025 21:21:19.630] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
+[14Mar2025 21:21:30.192] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
+[14Mar2025 21:21:35.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> holis
+[14Mar2025 21:21:45.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> hay grupo?
+[14Mar2025 21:22:07.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> asu, tas bien cerca
+[14Mar2025 21:22:58.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has made the advancement [Alex's Mobs]
+[14Mar2025 21:23:08.773] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/3487, l='ServerLevel[world]', x=39.50, y=4.00, z=1433.50] as it would cause deadlock
+[14Mar2025 21:23:21.285] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 21:23:21.313] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 21:23:21.313] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[14Mar2025 21:23:21.314] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 21:23:21.314] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/poison_skeleton -> hopo:mobs/poison_skeleton
+[14Mar2025 21:23:21.315] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 21:23:21.316] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 21:23:21.316] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 21:23:21.317] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 21:23:21.317] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 21:23:21.318] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 21:23:21.319] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 21:23:21.320] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 21:23:21.322] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 21:23:21.325] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 21:23:21.327] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 21:23:21.327] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[14Mar2025 21:23:21.328] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 21:23:21.329] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 21:23:21.332] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 21:23:21.333] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 21:23:21.333] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[14Mar2025 21:23:21.351] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[14Mar2025 21:23:21.354] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 21:23:21.355] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[14Mar2025 21:23:21.355] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[14Mar2025 21:23:21.355] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 21:23:21.356] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 21:23:21.359] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 21:23:21.359] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 21:23:21.359] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 21:23:21.360] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 21:23:40.950] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=244, y=-36, z=-98}
+[14Mar2025 21:23:40.996] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=246, y=-11, z=-134}
+[14Mar2025 21:23:44.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> me vienes a ver?
+[14Mar2025 21:23:50.803] [Worker-Main-2/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[14Mar2025 21:23:50.803] [Worker-Main-2/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[14Mar2025 21:24:34.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has made the advancement [Dungeon Now Loading]
+[14Mar2025 21:27:21.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has made the advancement [Stone Age]
