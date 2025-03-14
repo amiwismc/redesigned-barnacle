@@ -4638,3 +4638,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [14Mar2025 17:20:44.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2149ms or 42 ticks behind
 [14Mar2025 17:25:13.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3098ms or 61 ticks behind
 [14Mar2025 17:26:41.385] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2419, y=-22, z=1363}
+[14Mar2025 17:29:24.111] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2465, y=-13, z=10}
+[14Mar2025 17:33:14.338] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_3199
+[14Mar2025 17:33:59.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Eye Spy]
+[14Mar2025 17:34:07.415] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_939_biped
+[14Mar2025 17:34:12.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Eye Spy]
+[14Mar2025 17:41:45.226] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Eivind'/10820, l='ServerLevel[world]', x=-2095.51, y=2.50, z=1480.15] died: Eivind burned to death
+[14Mar2025 17:46:44.104] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12639, l='ServerLevel[world]', x=-2135.50, y=73.00, z=1557.50]
