@@ -4716,3 +4716,69 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [14Mar2025 21:57:22.317] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25251, l='ServerLevel[world]', x=13.50, y=76.00, z=631.50]
 [14Mar2025 21:57:50.163] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25525, l='ServerLevel[world]', x=-9.50, y=75.00, z=576.50]
 [14Mar2025 21:57:56.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> zzzzzzzzzzzzz
+[14Mar2025 21:58:17.862] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25781, l='ServerLevel[world]', x=-10.50, y=75.00, z=578.50]
+[14Mar2025 21:58:18.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> zzzzzzzzzz
+[14Mar2025 21:58:26.460] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25819, l='ServerLevel[world]', x=-24.50, y=80.00, z=632.50]
+[14Mar2025 21:58:26.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> zzzzzzzzzzz
+[14Mar2025 21:58:28.282] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25879, l='ServerLevel[world]', x=-5.50, y=76.00, z=608.50]
+[14Mar2025 21:58:52.716] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26230, l='ServerLevel[world]', x=-24.50, y=80.00, z=634.50]
+[14Mar2025 21:59:07.914] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26378, l='ServerLevel[world]', x=-3.50, y=80.00, z=613.50]
+[14Mar2025 21:59:19.916] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26503, l='ServerLevel[world]', x=-34.50, y=78.00, z=563.50]
+[14Mar2025 21:59:36.116] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26653, l='ServerLevel[world]', x=-33.50, y=78.00, z=565.50]
+[14Mar2025 21:59:41.719] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26734, l='ServerLevel[world]', x=-4.50, y=76.00, z=608.50]
+[14Mar2025 21:59:41.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has completed the challenge [Hero of the Village]
+[14Mar2025 21:59:45.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has made the advancement [What a Deal!]
+[14Mar2025 22:00:25.191] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ruth'/26611, l='ServerLevel[world]', x=207.94, y=66.00, z=640.26] died, message: 'Ruth was poked to death by a sweet berry bush'
+[14Mar2025 22:00:25.191] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ruth'/26611, l='ServerLevel[world]', x=207.94, y=66.00, z=640.26] died: Ruth was poked to death by a sweet berry bush
+[14Mar2025 22:00:55.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> bb
+[14Mar2025 22:01:01.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> aqui hay cosas del farmer delight
+[14Mar2025 22:01:08.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> cogelas
+[14Mar2025 22:02:09.110] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Gerda'/27027, l='ServerLevel[world]', x=232.71, y=53.56, z=546.46] died, message: 'Gerda was pricked to death'
+[14Mar2025 22:04:06.311] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:dark_oak_mineshaft -> hopo:dark_oak_mineshaft
+[14Mar2025 22:04:06.313] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:dark_oak_mineshaft -> hopo:dark_oak_mineshaft
+[14Mar2025 22:04:06.314] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[14Mar2025 22:04:06.314] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[14Mar2025 22:04:06.314] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[14Mar2025 22:04:06.333] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/dark_oak_mineshaft -> hopo:room/dark_oak_mineshaft
+[14Mar2025 22:04:06.334] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:dark_oak_mineshaft -> hopo:dark_oak_mineshaft
+[14Mar2025 22:04:06.335] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/dark_oak_mineshaft -> hopo:room/dark_oak_mineshaft
+[14Mar2025 22:04:06.336] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:dark_oak_mineshaft -> hopo:dark_oak_mineshaft
+[14Mar2025 22:04:06.337] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:dark_oak_mineshaft -> hopo:dark_oak_mineshaft
+[14Mar2025 22:04:06.338] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/dark_oak_mineshaft -> hopo:room/dark_oak_mineshaft
+[14Mar2025 22:04:06.339] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:dark_oak_mineshaft -> hopo:dark_oak_mineshaft
+[14Mar2025 22:04:06.339] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:dark_oak_mineshaft -> hopo:dark_oak_mineshaft
+[14Mar2025 22:04:06.340] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/dark_oak_mineshaft -> hopo:room/dark_oak_mineshaft
+[14Mar2025 22:04:06.340] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[14Mar2025 22:04:06.340] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/poison_skeleton -> hopo:mobs/poison_skeleton
+[14Mar2025 22:04:06.341] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:dark_oak_mineshaft -> hopo:dark_oak_mineshaft
+[14Mar2025 22:04:06.342] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:dark_oak_mineshaft -> hopo:dark_oak_mineshaft
+[14Mar2025 22:04:06.343] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:dark_oak_mineshaft -> hopo:dark_oak_mineshaft
+[14Mar2025 22:04:06.343] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/dark_oak_mineshaft -> hopo:room/dark_oak_mineshaft
+[14Mar2025 22:04:06.344] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/dark_oak_mineshaft -> hopo:room/dark_oak_mineshaft
+[14Mar2025 22:04:06.345] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/dark_oak_mineshaft -> hopo:room/dark_oak_mineshaft
+[14Mar2025 22:04:06.346] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:dark_oak_mineshaft -> hopo:dark_oak_mineshaft
+[14Mar2025 22:04:06.346] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[14Mar2025 22:04:06.346] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/poison_skeleton -> hopo:mobs/poison_skeleton
+[14Mar2025 22:04:06.347] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/dark_oak_mineshaft -> hopo:room/dark_oak_mineshaft
+[14Mar2025 22:04:06.347] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/dark_oak_mineshaft -> hopo:room/dark_oak_mineshaft
+[14Mar2025 22:04:06.349] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:dark_oak_mineshaft -> hopo:dark_oak_mineshaft
+[14Mar2025 22:04:06.349] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/dark_oak_mineshaft -> hopo:room/dark_oak_mineshaft
+[14Mar2025 22:04:06.351] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:dark_oak_mineshaft -> hopo:dark_oak_mineshaft
+[14Mar2025 22:04:06.352] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[14Mar2025 22:04:06.352] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[14Mar2025 22:04:06.353] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:dark_oak_mineshaft -> hopo:dark_oak_mineshaft
+[14Mar2025 22:04:06.353] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[14Mar2025 22:04:06.354] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/dark_oak_mineshaft -> hopo:room/dark_oak_mineshaft
+[14Mar2025 22:04:33.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has made the advancement [Disme A Dozen]
+[14Mar2025 22:04:42.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has made the advancement [Amateur Archaeologist]
+[14Mar2025 22:05:21.603] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=34, y=-37, z=848}
+[14Mar2025 22:05:21.603] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=33, y=-37, z=848}
+[14Mar2025 22:05:47.649] [Worker-Main-71/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=17, y=-43, z=859}
+[14Mar2025 22:05:47.649] [Worker-Main-71/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=17, y=-43, z=861}
+[14Mar2025 22:05:47.650] [Worker-Main-71/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=16, y=-43, z=861}
+[14Mar2025 22:05:47.650] [Worker-Main-71/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=17, y=-42, z=860}
+[14Mar2025 22:05:47.650] [Worker-Main-71/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=17, y=-43, z=859}
+[14Mar2025 22:05:47.650] [Worker-Main-71/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=17, y=-43, z=861}
+[14Mar2025 22:05:47.650] [Worker-Main-71/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=16, y=-43, z=861}
+[14Mar2025 22:05:47.650] [Worker-Main-71/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=17, y=-42, z=860}
+[14Mar2025 22:07:15.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has made the advancement [Acquire Hardware]
