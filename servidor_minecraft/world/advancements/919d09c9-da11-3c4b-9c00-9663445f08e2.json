@@ -979,6 +979,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-03-14 22:41:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-03-14 21:27:21 +0000"
@@ -1348,6 +1354,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence": {
     "criteria": {
       "has_stick": "2025-03-14 21:24:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-03-14 22:41:45 +0000"
     },
     "done": true
   },
@@ -4122,6 +4134,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-03-14 22:41:45 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_pillar_trim": {
     "criteria": {
       "has_oak_pillar_trim": "2025-03-14 21:24:15 +0000"
@@ -4275,6 +4293,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_sofa": {
     "criteria": {
       "has_planks": "2025-03-14 21:24:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-03-14 22:41:45 +0000"
     },
     "done": true
   },
@@ -4782,6 +4806,12 @@
   "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
     "criteria": {
       "has_stick": "2025-03-14 21:24:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/packed_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-03-14 22:41:45 +0000"
     },
     "done": true
   },
@@ -6306,6 +6336,12 @@
   "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-03-14 21:30:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-03-14 22:41:45 +0000"
     },
     "done": true
   },
@@ -8338,6 +8374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-14 22:41:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-03-14 21:25:47 +0000"
@@ -9318,6 +9360,12 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/aqua_lamp": {
+    "criteria": {
+      "has_water": "2025-03-14 22:41:45 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sky_block": {
     "criteria": {
       "has_journal": "2025-03-14 21:18:43 +0000"
@@ -9406,6 +9454,12 @@
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2025-03-14 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.base/crafting/fan_catalyst/splashing_sail": {
+    "criteria": {
+      "has_water_bucket": "2025-03-14 22:41:45 +0000"
     },
     "done": true
   },
