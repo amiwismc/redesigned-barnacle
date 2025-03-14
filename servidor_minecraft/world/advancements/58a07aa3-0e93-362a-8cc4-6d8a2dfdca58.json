@@ -3677,6 +3677,7 @@
       "minecraft:vindicator": "2025-03-10 04:33:36 +0000",
       "minecraft:spider": "2025-03-10 03:22:45 +0000",
       "minecraft:creeper": "2025-03-14 17:18:33 +0000",
+      "minecraft:evoker": "2025-03-14 17:54:51 +0000",
       "minecraft:witch": "2025-03-10 04:22:55 +0000",
       "minecraft:wither_skeleton": "2025-03-10 17:49:02 +0000",
       "minecraft:husk": "2025-03-12 03:59:07 +0000",
@@ -16766,6 +16767,12 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-03-14 17:46:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-03-14 17:17:31 +0000"
@@ -16868,6 +16875,12 @@
     },
     "done": true
   },
+  "divinerpg:recipes/smelting/realmite_ingot_from_raw_realmite": {
+    "criteria": {
+      "has_raw_realmite": "2025-03-14 17:52:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-14 17:17:31 +0000"
@@ -16952,6 +16965,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/chiseled_stone_bricks_slab": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-03-14 17:46:55 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-03-14 17:24:29 +0000"
@@ -17003,6 +17022,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-03-14 17:24:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf_smithing": {
+    "criteria": {
+      "has_wolf": "2025-03-14 17:45:20 +0000"
     },
     "done": true
   },
@@ -17102,9 +17127,21 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-03-14 17:54:11 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-14 17:17:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_hoe_repairing": {
+    "criteria": {
+      "has_diamond_hoe": "2025-03-14 17:55:02 +0000"
     },
     "done": true
   },
@@ -17132,6 +17169,12 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/serenade_of_health": {
+    "criteria": {
+      "has_totem": "2025-03-14 17:54:52 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_tuff_brick_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-03-14 17:24:29 +0000"
@@ -17150,9 +17193,21 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/raw_realmite_block": {
+    "criteria": {
+      "has_raw_realmite": "2025-03-14 17:52:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2025-03-14 17:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-03-14 17:54:11 +0000"
     },
     "done": true
   },
@@ -17249,6 +17304,12 @@
   "stoneworks:recipes/building_blocks/diorite_tile_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-14 17:17:31 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/blasting/realmite_ingot_from_raw_realmite": {
+    "criteria": {
+      "has_raw_realmite": "2025-03-14 17:52:20 +0000"
     },
     "done": true
   },

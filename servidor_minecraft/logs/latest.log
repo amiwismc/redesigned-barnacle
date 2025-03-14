@@ -4645,3 +4645,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [14Mar2025 17:34:12.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Eye Spy]
 [14Mar2025 17:41:45.226] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Eivind'/10820, l='ServerLevel[world]', x=-2095.51, y=2.50, z=1480.15] died: Eivind burned to death
 [14Mar2025 17:46:44.104] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12639, l='ServerLevel[world]', x=-2135.50, y=73.00, z=1557.50]
+[14Mar2025 17:47:58.852] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12977, l='ServerLevel[world]', x=-2135.50, y=73.00, z=1558.50]
+[14Mar2025 17:48:41.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2533ms or 50 ticks behind
+[14Mar2025 17:48:42.437] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2264, y=-10, z=27}
+[14Mar2025 17:49:14.006] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/13211, l='ServerLevel[world]', x=-2135.50, y=73.00, z=1556.50]
+[14Mar2025 17:50:20.731] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2833ms or 56 ticks behind
+[14Mar2025 17:50:22.143] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-48, y=-32, z=1609}
