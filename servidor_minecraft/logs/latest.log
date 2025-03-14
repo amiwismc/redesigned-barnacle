@@ -4890,3 +4890,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [14Mar2025 22:23:47.411] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Virge'/39160, l='ServerLevel[world]', x=230.12, y=65.56, z=826.87] died: Virge was pricked to death
 [14Mar2025 22:24:17.566] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_939_biped
 [14Mar2025 22:28:14.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has reached the goal [Pray to the Goddess]
+[14Mar2025 22:33:55.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> bebe
+[14Mar2025 22:34:04.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> vamos ha hacer tipos campamentos
+[14Mar2025 22:34:14.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> y divididos por secciones
+[14Mar2025 22:34:25.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> oki
+[14Mar2025 22:34:31.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> lo que tu creas mejor bb
+[14Mar2025 22:38:27.646] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Leivi'/43151, l='ServerLevel[world]', x=218.19, y=67.00, z=834.62] died, message: 'Leivi was shot by Pillager'
+[14Mar2025 22:38:27.647] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Leivi'/43151, l='ServerLevel[world]', x=218.19, y=67.00, z=834.62] died: Leivi was shot by Pillager
+[14Mar2025 22:38:39.701] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Anu'/43102, l='ServerLevel[world]', x=203.98, y=70.00, z=840.52] died, message: 'Anu was shot by Pillager'
+[14Mar2025 22:38:39.702] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Anu'/43102, l='ServerLevel[world]', x=203.98, y=70.00, z=840.52] died: Anu was shot by Pillager
