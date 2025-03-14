@@ -1393,6 +1393,12 @@
     },
     "done": true
   },
+  "divinerpg:recipes/blasting/rupee_ingot_from_raw_rupee": {
+    "criteria": {
+      "has_raw_rupee": "2025-03-14 23:45:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/limited_use_keycard": {
     "criteria": {
       "has_iron": "2025-03-14 22:07:15 +0000"
@@ -3010,6 +3016,12 @@
     },
     "done": true
   },
+  "divinerpg:recipes/smelting/arlemite_ingot_from_raw_arlemite": {
+    "criteria": {
+      "has_raw_arlemite": "2025-03-14 23:39:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_crate": {
     "criteria": {
       "has_oak_planks": "2025-03-14 21:24:15 +0000"
@@ -4387,6 +4399,12 @@
   "storagedrawers:recipes/storagedrawers/max_redstone_upgrade": {
     "criteria": {
       "has_template": "2025-03-14 21:18:43 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/raw_arlemite_block": {
+    "criteria": {
+      "has_raw_arlemite": "2025-03-14 23:39:44 +0000"
     },
     "done": true
   },
@@ -6881,6 +6899,12 @@
     },
     "done": true
   },
+  "divinerpg:recipes/smelting/rupee_ingot_from_raw_rupee": {
+    "criteria": {
+      "has_raw_rupee": "2025-03-14 23:45:30 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/acacia": {
     "criteria": {
       "has_acacia": "2025-03-14 21:18:43 +0000"
@@ -7673,6 +7697,12 @@
     },
     "done": true
   },
+  "divinerpg:recipes/blasting/arlemite_ingot_from_raw_arlemite": {
+    "criteria": {
+      "has_raw_arlemite": "2025-03-14 23:39:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-03-14 21:51:03 +0000"
@@ -7898,6 +7928,12 @@
   "refurbished_furniture:recipes/misc/constructing/orange_cooler": {
     "criteria": {
       "has_planks": "2025-03-14 21:24:15 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/raw_rupee_block": {
+    "criteria": {
+      "has_raw_rupee": "2025-03-14 23:45:30 +0000"
     },
     "done": true
   },
