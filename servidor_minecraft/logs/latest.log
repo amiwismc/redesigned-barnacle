@@ -4285,3 +4285,343 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [14Mar2025 21:23:50.803] [Worker-Main-2/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
 [14Mar2025 21:24:34.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has made the advancement [Dungeon Now Loading]
 [14Mar2025 21:27:21.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has made the advancement [Stone Age]
+[14Mar2025 21:27:35.701] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_173
+[14Mar2025 21:27:55.437] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/5761, l='ServerLevel[world]', x=-2134.50, y=73.00, z=1556.50]
+[14Mar2025 21:28:01.481] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1882, y=-11, z=1588}
+[14Mar2025 21:28:12.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3789ms or 75 ticks behind
+[14Mar2025 21:28:21.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ari_fl08 moved too quickly! 8.612196264260547,0.5105125904083252,-5.2567072515128075
+[14Mar2025 21:28:30.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has made the advancement [Getting an Upgrade]
+[14Mar2025 21:28:43.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> mandame tu ubi
+[14Mar2025 21:28:46.879] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[14Mar2025 21:28:46.879] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[14Mar2025 21:28:48.126] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
+[14Mar2025 21:28:48.360] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
+[14Mar2025 21:28:59.410] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/6256, l='ServerLevel[world]', x=-1974.50, y=78.00, z=1494.50]
+[14Mar2025 21:29:03.964] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/6281, l='ServerLevel[world]', x=-2003.50, y=80.00, z=1537.50]
+[14Mar2025 21:29:21.060] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Pontus'/5314, l='ServerLevel[world]', x=-2045.95, y=1.56, z=1457.75] died: Pontus was pricked to death
+[14Mar2025 21:29:50.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> [name:"amor de tu vida", x:61, y:60, z:-80, dim:minecraft:overworld]
+[14Mar2025 21:29:51.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> no puedo grupo
+[14Mar2025 21:29:55.061] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Ester'/5350, l='ServerLevel[world]', x=-2045.93, y=1.56, z=1457.73] died: Ester was pricked to death
+[14Mar2025 21:30:01.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> y eso?
+[14Mar2025 21:30:08.664] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/6849, l='ServerLevel[world]', x=-2016.50, y=77.00, z=1530.50]
+[14Mar2025 21:30:55.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> toy en llamada con alguien
+[14Mar2025 21:30:57.964] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/7214, l='ServerLevel[world]', x=-2133.50, y=73.00, z=1558.50]
+[14Mar2025 21:31:06.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> JAJAJA esta bien
+[14Mar2025 21:31:34.310] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
+[14Mar2025 21:32:04.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4349ms or 86 ticks behind
+[14Mar2025 21:32:10.459] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[14Mar2025 21:32:10.460] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 21:32:10.460] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 21:32:10.461] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 21:32:10.462] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 21:32:10.462] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[14Mar2025 21:32:10.462] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[14Mar2025 21:32:10.463] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 21:32:10.464] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 21:32:10.465] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 21:32:10.466] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/poison_skeleton -> hopo:mobs/poison_skeleton
+[14Mar2025 21:32:10.466] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 21:32:10.467] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 21:32:10.467] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 21:32:10.468] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 21:32:10.468] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 21:32:10.468] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[14Mar2025 21:32:10.469] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 21:32:10.470] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 21:32:10.470] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[14Mar2025 21:32:10.470] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 21:32:10.471] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 21:32:10.472] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 21:32:10.473] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 21:32:10.474] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 21:32:10.475] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 21:32:10.475] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 21:32:10.476] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 21:32:10.477] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 21:32:10.477] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/poison_skeleton -> hopo:mobs/poison_skeleton
+[14Mar2025 21:32:10.478] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 21:32:10.479] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 21:32:10.480] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 21:32:10.480] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[14Mar2025 21:32:10.480] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[14Mar2025 21:32:10.482] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[14Mar2025 21:32:10.483] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[14Mar2025 21:32:10.485] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[14Mar2025 21:32:10.485] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/poison_skeleton -> hopo:mobs/poison_skeleton
+[14Mar2025 21:32:10.486] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[14Mar2025 21:32:10.487] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 21:32:10.488] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[14Mar2025 21:32:10.490] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 21:32:10.490] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[14Mar2025 21:32:39.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Minecraft Comes Alive]
+[14Mar2025 21:34:34.909] [VoiceChatPacketProcessingThread/WARN] [voicechat/]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
+[14Mar2025 21:34:34.909] [VoiceChatPacketProcessingThread/WARN] [voicechat/]: [voicechat] Packet queue has 32 packets
+[14Mar2025 21:34:44.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ari_fl08 moved too quickly! 8.60721556667204,-1.342159774781564,-5.1923605538200945
+[14Mar2025 21:34:44.369] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11663ms or 233 ticks behind
+[14Mar2025 21:34:47.453] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1179, y=-3, z=763}
+[14Mar2025 21:34:47.453] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1179, y=-3, z=763}
+[14Mar2025 21:34:51.751] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/11631, l='ServerLevel[world]', x=-1155.50, y=-6.00, z=782.50] as it would cause deadlock
+[14Mar2025 21:34:52.080] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/11642, l='ServerLevel[world]', x=-1156.50, y=-3.00, z=722.50] as it would cause deadlock
+[14Mar2025 21:34:55.306] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1148, y=-29, z=777}
+[14Mar2025 21:34:55.306] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1147, y=-29, z=776}
+[14Mar2025 21:34:55.307] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1148, y=-29, z=777}
+[14Mar2025 21:34:55.307] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1147, y=-29, z=776}
+[14Mar2025 21:34:55.752] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1141, y=-43, z=736}
+[14Mar2025 21:34:55.752] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1141, y=-43, z=736}
+[14Mar2025 21:34:57.443] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/11840, l='ServerLevel[world]', x=-1128.50, y=-28.00, z=785.50] as it would cause deadlock
+[14Mar2025 21:34:58.609] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1226, y=-4, z=682}
+[14Mar2025 21:34:58.609] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1225, y=-4, z=681}
+[14Mar2025 21:34:58.609] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1226, y=-4, z=682}
+[14Mar2025 21:34:58.610] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1225, y=-4, z=681}
+[14Mar2025 21:34:58.870] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/11899, l='ServerLevel[world]', x=-1186.50, y=22.00, z=684.50] as it would cause deadlock
+[14Mar2025 21:34:58.871] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/11901, l='ServerLevel[world]', x=-1186.50, y=22.00, z=676.50] as it would cause deadlock
+[14Mar2025 21:34:59.071] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1158, y=-54, z=687}
+[14Mar2025 21:34:59.071] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1158, y=-54, z=685}
+[14Mar2025 21:34:59.071] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1158, y=-54, z=687}
+[14Mar2025 21:34:59.071] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1158, y=-54, z=685}
+[14Mar2025 21:34:59.084] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/11908, l='ServerLevel[world]', x=-1155.50, y=-3.00, z=680.50] as it would cause deadlock
+[14Mar2025 21:34:59.388] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/11911, l='ServerLevel[world]', x=-1123.50, y=22.00, z=680.50] as it would cause deadlock
+[14Mar2025 21:34:59.389] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/11914, l='ServerLevel[world]', x=-1123.50, y=22.00, z=672.50] as it would cause deadlock
+[14Mar2025 21:35:00.673] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/11940, l='ServerLevel[world]', x=-1117.50, y=-3.00, z=680.50] as it would cause deadlock
+[14Mar2025 21:35:00.674] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/11942, l='ServerLevel[world]', x=-1117.50, y=-3.00, z=672.50] as it would cause deadlock
+[14Mar2025 21:35:02.044] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/11991, l='ServerLevel[world]', x=-1093.50, y=-3.00, z=728.50] as it would cause deadlock
+[14Mar2025 21:35:08.162] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/12173, l='ServerLevel[world]', x=-1056.50, y=-3.00, z=722.50] as it would cause deadlock
+[14Mar2025 21:35:08.395] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1063, y=21, z=673}
+[14Mar2025 21:35:08.395] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1061, y=21, z=673}
+[14Mar2025 21:35:08.396] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1063, y=21, z=673}
+[14Mar2025 21:35:08.396] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1061, y=21, z=673}
+[14Mar2025 21:35:16.367] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/12191, l='ServerLevel[world]', x=-1127.50, y=-3.00, z=642.50] as it would cause deadlock
+[14Mar2025 21:35:16.416] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1105, y=-46, z=643}
+[14Mar2025 21:35:16.416] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1105, y=-45, z=642}
+[14Mar2025 21:35:16.416] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1105, y=-46, z=643}
+[14Mar2025 21:35:16.416] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1105, y=-45, z=642}
+[14Mar2025 21:35:22.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ari_fl08 moved too quickly! 3.11092446599514,2.586812036130347,9.185895124184526
+[14Mar2025 21:35:22.455] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14898ms or 297 ticks behind
+[14Mar2025 21:35:24.250] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1041, y=-4, z=679}
+[14Mar2025 21:35:24.250] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1041, y=-4, z=679}
+[14Mar2025 21:35:26.561] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1040, y=-4, z=680}
+[14Mar2025 21:35:26.561] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1039, y=-4, z=679}
+[14Mar2025 21:35:26.562] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1039, y=-4, z=680}
+[14Mar2025 21:35:26.562] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1040, y=-4, z=680}
+[14Mar2025 21:35:26.562] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1039, y=-4, z=679}
+[14Mar2025 21:35:26.562] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1039, y=-4, z=680}
+[14Mar2025 21:35:28.161] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/12258, l='ServerLevel[world]', x=-1122.50, y=-53.00, z=624.50] as it would cause deadlock
+[14Mar2025 21:35:28.179] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/12260, l='ServerLevel[world]', x=-1127.50, y=-3.00, z=634.50] as it would cause deadlock
+[14Mar2025 21:35:33.518] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1140, y=-29, z=620}
+[14Mar2025 21:35:33.518] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1141, y=-29, z=619}
+[14Mar2025 21:35:33.519] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1140, y=-29, z=620}
+[14Mar2025 21:35:33.519] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1141, y=-29, z=619}
+[14Mar2025 21:35:36.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> lag?
+[14Mar2025 21:35:37.110] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1109, y=-7, z=602}
+[14Mar2025 21:35:37.110] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1109, y=-7, z=602}
+[14Mar2025 21:35:37.131] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/12388, l='ServerLevel[world]', x=-1129.50, y=-28.00, z=605.50] as it would cause deadlock
+[14Mar2025 21:35:37.213] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1090, y=21, z=604}
+[14Mar2025 21:35:37.213] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1089, y=21, z=603}
+[14Mar2025 21:35:37.213] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1090, y=21, z=604}
+[14Mar2025 21:35:37.213] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1089, y=21, z=603}
+[14Mar2025 21:35:38.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ari_fl08 moved too quickly! 8.423939150915885,-0.3723496696009292,-5.692974340265323
+[14Mar2025 21:35:42.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5123ms or 102 ticks behind
+[14Mar2025 21:35:45.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has made the advancement [Monster Hunter]
+[14Mar2025 21:35:48.064] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-939, y=-31, z=677}
+[14Mar2025 21:35:53.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> sip
+[14Mar2025 21:35:55.245] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-906, y=12, z=768}
+[14Mar2025 21:35:55.246] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-905, y=12, z=768}
+[14Mar2025 21:35:55.246] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-904, y=12, z=768}
+[14Mar2025 21:36:06.061] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1094, y=-48, z=954}
+[14Mar2025 21:36:49.746] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13769, l='ServerLevel[world]', x=-807.50, y=22.00, z=405.50] as it would cause deadlock
+[14Mar2025 21:36:52.958] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13984, l='ServerLevel[world]', x=-807.50, y=22.00, z=397.50] as it would cause deadlock
+[14Mar2025 21:36:53.266] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/14017, l='ServerLevel[world]', x=-889.50, y=-41.00, z=398.50] as it would cause deadlock
+[14Mar2025 21:37:12.940] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/14875, l='ServerLevel[world]', x=-807.50, y=-28.00, z=295.50] as it would cause deadlock
+[14Mar2025 21:37:14.027] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/14924, l='ServerLevel[world]', x=-807.50, y=-28.00, z=287.50] as it would cause deadlock
+[14Mar2025 21:37:15.249] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[14Mar2025 21:37:15.257] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.265] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/spruce_mineshaft -> hopo:minecart/spruce_mineshaft
+[14Mar2025 21:37:15.269] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.271] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.273] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.274] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.275] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.278] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.279] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/spruce_mineshaft -> hopo:minecart/spruce_mineshaft
+[14Mar2025 21:37:15.281] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/spruce_mineshaft -> hopo:minecart/spruce_mineshaft
+[14Mar2025 21:37:15.283] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.284] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.284] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/vindicator_miner -> hopo:mobs/vindicator_miner
+[14Mar2025 21:37:15.286] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.287] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/spruce_mineshaft -> hopo:minecart/spruce_mineshaft
+[14Mar2025 21:37:15.289] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.292] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.293] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.294] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.295] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.297] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.300] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.300] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.301] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/poison_skeleton -> hopo:mobs/poison_skeleton
+[14Mar2025 21:37:15.301] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.302] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.305] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.308] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.310] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.311] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.313] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.314] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.315] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/spruce_mineshaft -> hopo:minecart/spruce_mineshaft
+[14Mar2025 21:37:15.315] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.323] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/spruce_mineshaft -> hopo:minecart/spruce_mineshaft
+[14Mar2025 21:37:15.323] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.324] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.325] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.325] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.326] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.327] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.334] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.336] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.337] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.339] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.340] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.341] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.342] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.342] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.343] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.345] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.345] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[14Mar2025 21:37:15.348] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.349] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.350] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.352] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.357] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.357] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.357] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[14Mar2025 21:37:15.358] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[14Mar2025 21:37:15.358] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[14Mar2025 21:37:15.358] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/poison_skeleton -> hopo:mobs/poison_skeleton
+[14Mar2025 21:37:15.358] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.359] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.360] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.361] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.368] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.369] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/spruce_mineshaft -> hopo:minecart/spruce_mineshaft
+[14Mar2025 21:37:15.370] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/spruce_mineshaft -> hopo:minecart/spruce_mineshaft
+[14Mar2025 21:37:15.374] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.378] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.378] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[14Mar2025 21:37:15.378] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[14Mar2025 21:37:15.378] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.385] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.386] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/spruce_mineshaft -> hopo:minecart/spruce_mineshaft
+[14Mar2025 21:37:15.387] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/spruce_mineshaft -> hopo:minecart/spruce_mineshaft
+[14Mar2025 21:37:15.396] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.396] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.397] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.401] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/spruce_mineshaft -> hopo:minecart/spruce_mineshaft
+[14Mar2025 21:37:15.403] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.404] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/spruce_mineshaft -> hopo:minecart/spruce_mineshaft
+[14Mar2025 21:37:15.415] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.420] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.421] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[14Mar2025 21:37:15.421] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/vindicator_miner -> hopo:mobs/vindicator_miner
+[14Mar2025 21:37:15.426] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.426] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.427] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[14Mar2025 21:37:15.427] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[14Mar2025 21:37:15.432] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.437] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.448] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.449] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.455] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.456] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.473] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.476] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.477] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.477] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/vindicator_miner -> hopo:mobs/vindicator_miner
+[14Mar2025 21:37:15.478] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.480] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.480] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[14Mar2025 21:37:15.480] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[14Mar2025 21:37:15.487] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.495] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[14Mar2025 21:37:15.507] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.515] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[14Mar2025 21:37:15.516] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[14Mar2025 21:37:15.530] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.531] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.546] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.546] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.547] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[14Mar2025 21:37:15.547] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.548] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.556] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.563] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[14Mar2025 21:37:15.573] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.574] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[14Mar2025 21:37:15.574] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.575] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.598] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[14Mar2025 21:37:15.599] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.599] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[14Mar2025 21:37:15.599] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/poison_skeleton -> hopo:mobs/poison_skeleton
+[14Mar2025 21:37:15.608] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.616] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.617] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.632] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.633] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.633] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[14Mar2025 21:37:15.633] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[14Mar2025 21:37:15.641] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.642] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.642] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/vindicator_miner -> hopo:mobs/vindicator_miner
+[14Mar2025 21:37:15.644] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.645] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.646] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.659] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.671] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.697] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.698] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/spruce_mineshaft -> hopo:minecart/spruce_mineshaft
+[14Mar2025 21:37:15.714] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.739] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/spruce_mineshaft -> hopo:minecart/spruce_mineshaft
+[14Mar2025 21:37:15.740] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.757] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/spruce_mineshaft -> hopo:minecart/spruce_mineshaft
+[14Mar2025 21:37:15.758] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/spruce_mineshaft -> hopo:minecart/spruce_mineshaft
+[14Mar2025 21:37:15.759] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/spruce_mineshaft -> hopo:minecart/spruce_mineshaft
+[14Mar2025 21:37:15.760] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.761] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.803] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.807] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.809] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.813] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.815] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.837] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/spruce_mineshaft -> hopo:minecart/spruce_mineshaft
+[14Mar2025 21:37:15.923] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.937] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.938] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.939] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.966] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.980] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:15.982] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:15.996] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:16.028] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:16.042] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:16.043] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:16.046] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:16.049] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:16.064] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:16.066] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:16.068] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:16.069] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:16.073] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:16.073] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[14Mar2025 21:37:16.102] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:16.103] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:16.103] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:16.120] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:16.121] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:16.122] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:16.155] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:16.156] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:16.160] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:16.179] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:16.181] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:16.181] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/spruce_mineshaft -> hopo:room/spruce_mineshaft
+[14Mar2025 21:37:16.194] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: hopo:spruce_mineshaft -> hopo:spruce_mineshaft
+[14Mar2025 21:37:30.942] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-258, y=32, z=-153}

@@ -16567,6 +16567,12 @@
     },
     "done": true
   },
+  "mca:root": {
+    "criteria": {
+      "village_taiga": "2025-03-14 21:32:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-03-14 21:24:08 +0000"
@@ -16609,6 +16615,12 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/ender_watcher_pumpkin": {
+    "criteria": {
+      "has_shards": "2025-03-14 21:29:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_ochrum_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-03-14 21:24:08 +0000"
@@ -16648,6 +16660,12 @@
   "create:recipes/building_blocks/cut_ochrum_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-03-14 21:24:08 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/ender_stone": {
+    "criteria": {
+      "has_shards": "2025-03-14 21:29:15 +0000"
     },
     "done": true
   },
