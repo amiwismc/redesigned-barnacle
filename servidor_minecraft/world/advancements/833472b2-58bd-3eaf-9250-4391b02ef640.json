@@ -16513,27 +16513,21 @@
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/black_concrete_slab": {
+  "new_slab_variants:recipes/building_blocks/green_terracotta_slab": {
     "criteria": {
-      "has_black_concrete": "2025-03-14 17:28:34 +0000"
+      "has_green_terracotta": "2025-03-14 17:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
+    "criteria": {
+      "has_green_terracotta": "2025-03-14 17:13:51 +0000"
     },
     "done": true
   },
   "mcwlights:recipes/redstone_slab": {
     "criteria": {
       "has_wood": "2025-03-14 17:23:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold_betterstrongholds": "2025-03-14 17:34:12 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/green_terracotta_slab": {
-    "criteria": {
-      "has_green_terracotta": "2025-03-14 17:13:51 +0000"
     },
     "done": true
   },
@@ -16549,9 +16543,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_glazed_terracotta": {
+  "new_slab_variants:recipes/building_blocks/black_concrete_slab": {
     "criteria": {
-      "has_green_terracotta": "2025-03-14 17:13:51 +0000"
+      "has_black_concrete": "2025-03-14 17:28:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-03-14 17:34:12 +0000"
     },
     "done": true
   },
