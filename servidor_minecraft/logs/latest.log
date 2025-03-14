@@ -5031,3 +5031,20 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [14Mar2025 23:02:16.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has made the advancement [Close Quarters]
 [14Mar2025 23:06:01.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> zzzzzzzzz
 [14Mar2025 23:06:08.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> zzzzzzzzzz
+[14Mar2025 23:10:28.906] [Worker-Main-71/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=870, y=-54, z=1021}
+[14Mar2025 23:10:28.906] [Worker-Main-71/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=870, y=-54, z=1021}
+[14Mar2025 23:12:56.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> bebe
+[14Mar2025 23:13:03.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nifthy575 moved too quickly! 6.740188938394908,-3.0,-6.766306775427779
+[14Mar2025 23:13:03.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> dimelo
+[14Mar2025 23:13:03.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7240ms or 144 ticks behind
+[14Mar2025 23:13:07.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> como se adiestra a un allay
+[14Mar2025 23:13:33.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> creo que con una rosa, toten
+[14Mar2025 23:13:37.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> no recuerdo
+[14Mar2025 23:13:46.574] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
+[14Mar2025 23:13:51.106] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[14Mar2025 23:13:57.923] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_939_biped
+[14Mar2025 23:13:59.008] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[14Mar2025 23:14:07.888] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3081ms or 61 ticks behind
+[14Mar2025 23:14:34.616] [Worker-Main-71/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_966
+[14Mar2025 23:14:40.677] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/64519, l='ServerLevel[world]', x=823.50, y=-28.00, z=364.50] as it would cause deadlock
+[14Mar2025 23:15:55.161] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_966
