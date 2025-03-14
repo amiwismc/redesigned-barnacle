@@ -4782,3 +4782,111 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [14Mar2025 22:05:47.650] [Worker-Main-71/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=16, y=-43, z=861}
 [14Mar2025 22:05:47.650] [Worker-Main-71/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=17, y=-42, z=860}
 [14Mar2025 22:07:15.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has made the advancement [Acquire Hardware]
+[14Mar2025 22:08:54.127] [Worker-Main-71/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_939_biped
+[14Mar2025 22:09:00.327] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Pavel'/30239, l='ServerLevel[world]', x=207.30, y=70.00, z=855.80] died, message: 'Pavel was shot by Pillager'
+[14Mar2025 22:09:03.248] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Heldur'/31083, l='ServerLevel[world]', x=197.73, y=68.00, z=850.57] died, message: 'Heldur was shot by Pillager'
+[14Mar2025 22:09:03.564] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Alexandra'/30313, l='ServerLevel[world]', x=208.65, y=68.00, z=848.52] died, message: 'Alexandra was shot by Pillager'
+[14Mar2025 22:09:05.757] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Merike'/30312, l='ServerLevel[world]', x=209.12, y=68.00, z=846.17] died, message: 'Merike was shot by Pillager'
+[14Mar2025 22:09:20.557] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Terje'/29763, l='ServerLevel[world]', x=218.45, y=70.00, z=828.45] died, message: 'Terje was shot by Pillager'
+[14Mar2025 22:09:27.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> zzzzzzz
+[14Mar2025 22:09:27.988] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Heili}[style={}] has been infected
+[14Mar2025 22:09:39.838] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Argo'/30306, l='ServerLevel[world]', x=111.28, y=87.00, z=701.56] died, message: 'Argo was slain by Hunter'
+[14Mar2025 22:09:52.256] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Aavo'/31154, l='ServerLevel[world]', x=214.65, y=69.74, z=865.70] died, message: 'Aavo was shot by Pillager'
+[14Mar2025 22:09:53.794] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kulno'/30236, l='ServerLevel[world]', x=181.33, y=74.00, z=831.87] died, message: 'Kulno was shot by Pillager'
+[14Mar2025 22:09:59.554] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Reno'/30927, l='ServerLevel[world]', x=187.30, y=74.00, z=829.96] died, message: 'Reno was shot by Pillager'
+[14Mar2025 22:10:05.188] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Janno'/30243, l='ServerLevel[world]', x=197.71, y=71.00, z=839.96] died, message: 'Janno was shot by Pillager'
+[14Mar2025 22:10:07.550] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Andres'/30238, l='ServerLevel[world]', x=188.31, y=74.00, z=827.37] died, message: 'Andres was shot by Pillager'
+[14Mar2025 22:10:14.345] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Siim'/31084, l='ServerLevel[world]', x=206.07, y=68.50, z=858.44] died, message: 'Siim was shot by Pillager'
+[14Mar2025 22:10:39.666] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Taavet'/30199, l='ServerLevel[world]', x=227.61, y=66.00, z=868.81] died, message: 'Taavet was shot by Pillager'
+[14Mar2025 22:10:50.792] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Annika'/30314, l='ServerLevel[world]', x=193.48, y=72.00, z=803.03] died, message: 'Annika was shot by Pillager'
+[14Mar2025 22:10:57.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> mi mama dice q que se siente tener pocos dias para las clases jajaja
+[14Mar2025 22:11:04.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> a
+[14Mar2025 22:11:10.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> ta modo hater
+[14Mar2025 22:11:33.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> lizete creo q encontre a mi bello durmiente
+[14Mar2025 22:12:40.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has made the advancement [Sky of Beginning]
+[14Mar2025 22:12:54.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> lizete encontre lo q me dijiste
+[14Mar2025 22:15:28.220] [Worker-Main-71/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/35991, l='ServerLevel[world]', x=648.50, y=-53.00, z=333.50] as it would cause deadlock
+[14Mar2025 22:15:29.090] [Worker-Main-71/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/36049, l='ServerLevel[world]', x=648.50, y=-59.00, z=304.50] as it would cause deadlock
+[14Mar2025 22:15:36.925] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/36186, l='ServerLevel[world]', x=671.50, y=-53.00, z=253.50] as it would cause deadlock
+[14Mar2025 22:15:37.237] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=685, y=-54, z=272}
+[14Mar2025 22:15:37.237] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=685, y=-54, z=272}
+[14Mar2025 22:15:37.267] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/36206, l='ServerLevel[world]', x=687.50, y=-28.00, z=264.50] as it would cause deadlock
+[14Mar2025 22:15:37.403] [Worker-Main-71/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/36218, l='ServerLevel[world]', x=679.50, y=-53.00, z=253.50] as it would cause deadlock
+[14Mar2025 22:15:40.111] [Worker-Main-61/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/36290, l='ServerLevel[world]', x=697.50, y=-53.00, z=253.50] as it would cause deadlock
+[14Mar2025 22:15:43.267] [Worker-Main-71/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/36379, l='ServerLevel[world]', x=705.50, y=-53.00, z=253.50] as it would cause deadlock
+[14Mar2025 22:15:46.519] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/36448, l='ServerLevel[world]', x=732.50, y=-53.00, z=265.50] as it would cause deadlock
+[14Mar2025 22:15:46.632] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=729, y=-29, z=236}
+[14Mar2025 22:15:46.632] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=729, y=-29, z=236}
+[14Mar2025 22:15:46.650] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/36457, l='ServerLevel[world]', x=732.50, y=-28.00, z=215.50] as it would cause deadlock
+[14Mar2025 22:15:49.055] [Worker-Main-61/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/36490, l='ServerLevel[world]', x=740.50, y=-53.00, z=265.50] as it would cause deadlock
+[14Mar2025 22:15:49.063] [Worker-Main-61/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/36492, l='ServerLevel[world]', x=741.50, y=-28.00, z=271.50] as it would cause deadlock
+[14Mar2025 22:15:50.148] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[14Mar2025 22:15:51.829] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[14Mar2025 22:15:51.830] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 22:15:51.830] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[14Mar2025 22:15:51.831] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 22:15:51.832] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 22:15:51.832] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 22:15:51.832] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[14Mar2025 22:15:51.832] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[14Mar2025 22:15:51.832] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[14Mar2025 22:15:51.833] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[14Mar2025 22:15:51.834] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[14Mar2025 22:15:51.835] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[14Mar2025 22:15:51.837] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[14Mar2025 22:15:51.837] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 22:15:51.838] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 22:15:51.838] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 22:15:51.839] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 22:15:51.840] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 22:15:51.841] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 22:15:51.841] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/poison_skeleton -> hopo:mobs/poison_skeleton
+[14Mar2025 22:15:51.841] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/vindicator_miner -> hopo:mobs/vindicator_miner
+[14Mar2025 22:15:51.842] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 22:15:51.845] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 22:15:51.846] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[14Mar2025 22:15:51.848] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 22:15:51.848] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 22:15:51.852] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 22:15:51.852] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[14Mar2025 22:15:51.853] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 22:15:51.854] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[14Mar2025 22:15:51.858] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 22:15:51.863] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[14Mar2025 22:15:52.184] [Worker-Main-71/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/36568, l='ServerLevel[world]', x=740.50, y=-28.00, z=215.50] as it would cause deadlock
+[14Mar2025 22:15:55.735] [Worker-Main-61/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/36671, l='ServerLevel[world]', x=762.50, y=-28.00, z=246.50] as it would cause deadlock
+[14Mar2025 22:15:55.756] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/36673, l='ServerLevel[world]', x=758.50, y=-56.00, z=235.50] as it would cause deadlock
+[14Mar2025 22:15:56.181] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_966
+[14Mar2025 22:16:00.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> bebe te dejo tus flores en el cofre
+[14Mar2025 22:16:00.933] [Worker-Main-3/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[14Mar2025 22:16:00.933] [Worker-Main-3/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[14Mar2025 22:16:01.368] [Worker-Main-3/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[14Mar2025 22:16:02.548] [Worker-Main-3/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[14Mar2025 22:16:02.548] [Worker-Main-3/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[14Mar2025 22:16:06.188] [Worker-Main-61/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/36772, l='ServerLevel[world]', x=783.50, y=-53.00, z=228.50] as it would cause deadlock
+[14Mar2025 22:16:06.189] [Worker-Main-61/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=771, y=-29, z=236}
+[14Mar2025 22:16:06.189] [Worker-Main-61/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=771, y=-29, z=236}
+[14Mar2025 22:16:06.761] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=781, y=-29, z=276}
+[14Mar2025 22:16:06.762] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=781, y=-29, z=276}
+[14Mar2025 22:16:08.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ari_fl08 moved too quickly! 7.678901801731286,0.11584694886356317,-6.592797097891491
+[14Mar2025 22:16:08.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7324ms or 146 ticks behind
+[14Mar2025 22:16:08.448] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
+[14Mar2025 22:16:09.485] [Worker-Main-71/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/36821, l='ServerLevel[world]', x=793.50, y=-28.00, z=233.50] as it would cause deadlock
+[14Mar2025 22:16:09.690] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/36823, l='ServerLevel[world]', x=791.50, y=-28.00, z=271.50] as it would cause deadlock
+[14Mar2025 22:16:11.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> oke
+[14Mar2025 22:16:15.213] [Worker-Main-71/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/36932, l='ServerLevel[world]', x=801.50, y=-28.00, z=233.50] as it would cause deadlock
+[14Mar2025 22:16:15.270] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=802, y=-54, z=263}
+[14Mar2025 22:16:15.270] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=802, y=-54, z=263}
+[14Mar2025 22:16:15.888] [Worker-Main-61/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/36961, l='ServerLevel[world]', x=815.50, y=-28.00, z=364.50] as it would cause deadlock
+[14Mar2025 22:16:16.063] [Worker-Main-61/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_966
+[14Mar2025 22:16:18.047] [Worker-Main-71/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_966
+[14Mar2025 22:16:18.047] [Worker-Main-71/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[14Mar2025 22:16:27.616] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/37132, l='ServerLevel[world]', x=517.50, y=69.00, z=246.50]
+[14Mar2025 22:16:39.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> si ves a un duende atrapalo
+[14Mar2025 22:20:26.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> zzz
+[14Mar2025 22:20:30.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> <zzzzzzzzzz
+[14Mar2025 22:22:57.521] [Worker-Main-71/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_939_biped
+[14Mar2025 22:23:47.411] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Virge'/39160, l='ServerLevel[world]', x=230.12, y=65.56, z=826.87] died, message: 'Virge was pricked to death'
+[14Mar2025 22:23:47.411] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Virge'/39160, l='ServerLevel[world]', x=230.12, y=65.56, z=826.87] died: Virge was pricked to death
+[14Mar2025 22:24:17.566] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_939_biped
+[14Mar2025 22:28:14.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nifthy575 has reached the goal [Pray to the Goddess]
