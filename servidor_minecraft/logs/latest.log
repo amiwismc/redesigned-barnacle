@@ -4651,3 +4651,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [14Mar2025 17:49:14.006] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/13211, l='ServerLevel[world]', x=-2135.50, y=73.00, z=1556.50]
 [14Mar2025 17:50:20.731] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2833ms or 56 ticks behind
 [14Mar2025 17:50:22.143] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-48, y=-32, z=1609}
+[14Mar2025 17:59:19.616] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/16136, l='ServerLevel[world]', x=-2262.50, y=32.00, z=1551.50] died: Ivy suffocated in a wall
+[14Mar2025 17:59:33.323] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/16145, l='ServerLevel[world]', x=-2265.45, y=31.63, z=1545.93] died: Ivy was slain by ari_fl08
+[14Mar2025 17:59:34.819] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/16125, l='ServerLevel[world]', x=-2266.41, y=32.00, z=1544.92] died: Ivy was slain by ari_fl08
+[14Mar2025 17:59:39.966] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/16180, l='ServerLevel[world]', x=-2263.50, y=24.00, z=1545.50] died: Ivy was doomed to fall
+[14Mar2025 17:59:46.468] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Ivy'/526, l='ServerLevel[world]', x=-2263.21, y=31.00, z=1546.47] died: Ivy was slain by ari_fl08
+[14Mar2025 18:01:34.104] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16573, l='ServerLevel[world]', x=-2134.50, y=73.00, z=1558.50]
+[14Mar2025 18:01:40.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Disconnected
+[14Mar2025 18:01:40.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[14Mar2025 18:01:40.428] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client marcouwu2005
+[14Mar2025 18:01:51.367] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ari_fl08 lost connection: Disconnected
+[14Mar2025 18:01:51.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 left the game
+[14Mar2025 18:01:51.368] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ari_fl08
