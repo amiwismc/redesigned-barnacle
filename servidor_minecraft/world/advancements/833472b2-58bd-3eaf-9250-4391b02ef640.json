@@ -2495,6 +2495,7 @@
       "minecraft:beach": "2025-03-10 01:36:30 +0000",
       "minecraft:river": "2025-03-10 04:23:35 +0000",
       "minecraft:snowy_plains": "2025-03-11 03:37:17 +0000",
+      "minecraft:stony_shore": "2025-03-14 22:57:14 +0000",
       "minecraft:swamp": "2025-03-11 03:10:45 +0000",
       "minecraft:cold_ocean": "2025-03-11 03:17:53 +0000",
       "minecraft:forest": "2025-03-10 17:22:15 +0000",
@@ -3005,6 +3006,7 @@
       "minecraft:vindicator": "2025-03-10 03:52:39 +0000",
       "minecraft:spider": "2025-03-10 01:32:14 +0000",
       "minecraft:creeper": "2025-03-10 02:07:03 +0000",
+      "minecraft:evoker": "2025-03-14 22:58:33 +0000",
       "minecraft:witch": "2025-03-11 03:37:41 +0000",
       "minecraft:wither_skeleton": "2025-03-10 17:48:31 +0000",
       "minecraft:cave_spider": "2025-03-10 04:10:42 +0000",
@@ -16829,7 +16831,8 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "illager_camp": "2025-03-14 22:54:12 +0000"
+      "illager_camp": "2025-03-14 22:54:12 +0000",
+      "mansion": "2025-03-14 22:58:40 +0000"
     },
     "done": false
   },
@@ -16906,6 +16909,12 @@
     },
     "done": true
   },
+  "illagerinvasion:recipes/decorations/imbuing_table": {
+    "criteria": {
+      "has_primal_essence": "2025-03-14 23:05:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-03-14 21:24:08 +0000"
@@ -16930,6 +16939,12 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_illager_mansion": {
+    "criteria": {
+      "minecraft:woodland_mansion": "2025-03-14 22:58:40 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_shingle_wall_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-14 22:03:19 +0000"
@@ -16945,6 +16960,12 @@
   "justhammers:recipes/tools/stone_impact_hammer": {
     "criteria": {
       "has_material": "2025-03-14 22:03:19 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/serenade_of_health": {
+    "criteria": {
+      "has_totem": "2025-03-14 23:03:25 +0000"
     },
     "done": true
   },
@@ -17011,6 +17032,12 @@
   "create_dd:recipes/create_dd.palettes/cut_stone_slab_from_stone_types_stone_stonecutting": {
     "criteria": {
       "has_stone_types_stone": "2025-03-14 22:03:19 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/ladder_slab": {
+    "criteria": {
+      "has_ladder": "2025-03-14 22:56:39 +0000"
     },
     "done": true
   },

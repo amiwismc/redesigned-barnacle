@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/virus_necrodermal": {
+    "criteria": {
+      "has_alt_item": "2025-03-14 23:02:21 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-14 21:33:45 +0000"
@@ -1279,6 +1285,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-14 23:02:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-03-14 21:27:21 +0000"
@@ -1726,6 +1738,12 @@
   "ars_nouveau:recipes/misc/sourceberry_sack_to_bush": {
     "criteria": {
       "has_journal": "2025-03-14 21:18:43 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/gummy/salmonberries": {
+    "criteria": {
+      "has_salmonberries": "2025-03-14 23:01:00 +0000"
     },
     "done": true
   },
@@ -3273,6 +3291,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-03-14 23:02:16 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/neptinium_ingot_from_blasting": {
     "criteria": {
       "has_leggings": "2025-03-14 21:18:43 +0000",
@@ -3287,6 +3311,12 @@
       "has_hoe": "2025-03-14 21:18:43 +0000",
       "has_boots": "2025-03-14 21:18:43 +0000",
       "has_pickaxe": "2025-03-14 21:18:43 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/cyclops_pumpkin": {
+    "criteria": {
+      "has_cyclops_eye_shards": "2025-03-14 23:05:55 +0000"
     },
     "done": true
   },
@@ -4680,6 +4710,7 @@
       "minecraft:beach": "2025-03-14 21:23:33 +0000",
       "minecraft:river": "2025-03-14 21:55:36 +0000",
       "minecraft:forest": "2025-03-14 21:23:48 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-14 23:01:11 +0000",
       "minecraft:plains": "2025-03-14 21:18:44 +0000"
     },
     "done": false
@@ -4753,6 +4784,12 @@
   "ars_nouveau:recipes/misc/mirrorweave": {
     "criteria": {
       "has_journal": "2025-03-14 21:18:43 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-03-14 23:01:57 +0000"
     },
     "done": true
   },
@@ -5089,6 +5126,12 @@
   "ars_nouveau:recipes/misc/gilded_sourcestone_large_bricks_stairs": {
     "criteria": {
       "has_journal": "2025-03-14 21:18:43 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/cyclops_eye": {
+    "criteria": {
+      "has_shards": "2025-03-14 23:05:55 +0000"
     },
     "done": true
   },
@@ -6022,6 +6065,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-03-14 23:02:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2025-03-14 22:07:15 +0000"
@@ -6736,6 +6785,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/raw_iron_block_slab": {
+    "criteria": {
+      "has_raw_iron_block": "2025-03-14 23:02:39 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2025-03-14 21:18:43 +0000"
@@ -6823,6 +6878,12 @@
   "refurbished_furniture:recipes/misc/constructing/gray_lamp": {
     "criteria": {
       "has_planks": "2025-03-14 21:24:15 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/storage/salmonberry_storage_block": {
+    "criteria": {
+      "has_salmonberry": "2025-03-14 23:01:00 +0000"
     },
     "done": true
   },
@@ -7060,6 +7121,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-03-14 23:01:57 +0000"
+    },
+    "done": false
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-14 21:30:27 +0000"
@@ -7189,6 +7256,12 @@
   "travelersbackpack:recipes/misc/gold_tier_upgrade": {
     "criteria": {
       "has_gold_ingot": "2025-03-14 22:48:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-03-14 23:02:39 +0000"
     },
     "done": true
   },
@@ -8122,6 +8195,12 @@
   "handcrafted:recipes/misc/salmon_trophy": {
     "criteria": {
       "has_salmon_trophy": "2025-03-14 21:24:15 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/salmonberry_pips": {
+    "criteria": {
+      "has_salmonberries": "2025-03-14 23:01:00 +0000"
     },
     "done": true
   },
