@@ -17259,6 +17259,60 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/cherry_drawers": {
+    "criteria": {
+      "has_chest": "2025-03-15 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
+    "criteria": {
+      "has_chest": "2025-03-15 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/white_pavement": {
+    "criteria": {
+      "has_item": "2025-03-15 00:23:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_void": {
+    "criteria": {
+      "has_item": "2025-03-15 00:23:53 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/warped_drawers": {
+    "criteria": {
+      "has_chest": "2025-03-15 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/polished_livingrock": {
+    "criteria": {
+      "has_item": "2025-03-15 00:23:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/mana_detector": {
+    "criteria": {
+      "has_alt_item": "2025-03-15 00:23:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_livingrock": {
+    "criteria": {
+      "has_item": "2025-03-15 00:23:53 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_drawers": {
+    "criteria": {
+      "has_chest": "2025-03-15 00:24:59 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/food/skyroot_milk_bucket_cake": {
     "criteria": {
       "has_egg": "2025-03-15 00:04:49 +0000"
@@ -17271,15 +17325,57 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/livingrock_slate": {
+    "criteria": {
+      "has_item": "2025-03-15 00:23:53 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/white_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2025-03-15 00:14:51 +0000"
     },
     "done": true
   },
+  "botania:recipes/decorations/diluted_pool": {
+    "criteria": {
+      "has_item": "2025-03-15 00:23:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_container": {
+    "criteria": {
+      "has_base_block": "2025-03-15 00:24:59 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_white": {
     "criteria": {
       "has_alt_item": "2025-03-15 00:14:51 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-03-15 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/mangrove_drawers": {
+    "criteria": {
+      "has_chest": "2025-03-15 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/birch_drawers": {
+    "criteria": {
+      "has_chest": "2025-03-15 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/spruce_drawers": {
+    "criteria": {
+      "has_chest": "2025-03-15 00:24:59 +0000"
     },
     "done": true
   },
@@ -17313,6 +17409,18 @@
     },
     "done": true
   },
+  "botania:recipes/misc/livingrock_wall": {
+    "criteria": {
+      "has_item": "2025-03-15 00:23:53 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-03-15 00:24:59 +0000"
+    },
+    "done": true
+  },
   "divinerpg:recipes/campfire/boiled_egg": {
     "criteria": {
       "has_egg": "2025-03-15 00:04:49 +0000"
@@ -17322,6 +17430,24 @@
   "travelersbackpack:recipes/misc/cake": {
     "criteria": {
       "has_egg": "2025-03-15 00:04:49 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/jungle_drawers": {
+    "criteria": {
+      "has_chest": "2025-03-15 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_pool": {
+    "criteria": {
+      "has_item": "2025-03-15 00:23:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/blue_pavement": {
+    "criteria": {
+      "has_item": "2025-03-15 00:23:53 +0000"
     },
     "done": true
   },
@@ -17337,6 +17463,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/red_pavement": {
+    "criteria": {
+      "has_item": "2025-03-15 00:23:53 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2025-03-15 00:04:49 +0000"
@@ -17349,6 +17481,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/black_pavement": {
+    "criteria": {
+      "has_item": "2025-03-15 00:23:53 +0000"
+    },
+    "done": true
+  },
   "botania:main/lexicon_use": {
     "criteria": {
       "use_lexicon": "2025-03-15 00:08:15 +0000"
@@ -17358,6 +17496,30 @@
   "botania:recipes/misc/dye_white": {
     "criteria": {
       "has_item": "2025-03-15 00:14:51 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/acacia_drawers": {
+    "criteria": {
+      "has_chest": "2025-03-15 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingrock_slab": {
+    "criteria": {
+      "has_item": "2025-03-15 00:23:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/yellow_pavement": {
+    "criteria": {
+      "has_item": "2025-03-15 00:23:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/green_pavement": {
+    "criteria": {
+      "has_item": "2025-03-15 00:23:53 +0000"
     },
     "done": true
   },
@@ -17382,6 +17544,24 @@
   "blue_skies:recipes/food/cake_compat": {
     "criteria": {
       "has_item": "2025-03-15 00:04:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingrock_stairs": {
+    "criteria": {
+      "has_item": "2025-03-15 00:23:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-03-15 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_chest": "2025-03-15 00:24:59 +0000"
     },
     "done": true
   },
