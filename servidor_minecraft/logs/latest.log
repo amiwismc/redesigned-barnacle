@@ -4122,3 +4122,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [15Mar2025 03:55:20.023] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-84, y=68, z=168} BlockPos{x=-83, y=66, z=168}
 [15Mar2025 03:56:04.957] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-78, y=68, z=170} BlockPos{x=-76, y=66, z=170}
 [15Mar2025 04:16:18.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8295ms or 165 ticks behind
+[15Mar2025 04:56:19.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Magic Mod Mechanic]
+[15Mar2025 04:57:43.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Imbued]
