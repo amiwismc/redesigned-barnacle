@@ -17301,6 +17301,12 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/red_string_relay": {
+    "criteria": {
+      "has_base_block": "2025-03-15 00:33:29 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/apothecary_livingrock": {
     "criteria": {
       "has_item": "2025-03-15 00:23:53 +0000"
@@ -17331,6 +17337,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/livingwood": {
+    "criteria": {
+      "has_log": "2025-03-15 00:29:42 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/white_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2025-03-15 00:14:51 +0000"
@@ -17349,6 +17361,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/turntable": {
+    "criteria": {
+      "has_item": "2025-03-15 00:29:42 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_white": {
     "criteria": {
       "has_alt_item": "2025-03-15 00:14:51 +0000"
@@ -17358,6 +17376,12 @@
   "storagedrawers:recipes/storagedrawers/oak_drawers": {
     "criteria": {
       "has_chest": "2025-03-15 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood_planks": {
+    "criteria": {
+      "has_item": "2025-03-15 00:29:42 +0000"
     },
     "done": true
   },
@@ -17373,6 +17397,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/glimmering_livingwood_log": {
+    "criteria": {
+      "has_item": "2025-03-15 00:29:42 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/spruce_drawers": {
     "criteria": {
       "has_chest": "2025-03-15 00:24:59 +0000"
@@ -17382,6 +17412,24 @@
   "botania:main/apothecary_pickup": {
     "criteria": {
       "apothecary": "2025-03-15 00:09:06 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/incense_plate": {
+    "criteria": {
+      "has_item": "2025-03-15 00:29:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/livingwood_twig": {
+    "criteria": {
+      "has_item": "2025-03-15 00:29:42 +0000"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup_lexicon": {
+    "criteria": {
+      "pickup": "2025-03-15 00:33:01 +0000"
     },
     "done": true
   },
@@ -17415,6 +17463,12 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/redstone_spreader": {
+    "criteria": {
+      "has_item": "2025-03-15 00:33:29 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
     "criteria": {
       "has_chest": "2025-03-15 00:24:59 +0000"
@@ -17424,6 +17478,12 @@
   "divinerpg:recipes/campfire/boiled_egg": {
     "criteria": {
       "has_egg": "2025-03-15 00:04:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/horn_grass": {
+    "criteria": {
+      "has_item": "2025-03-15 00:29:42 +0000"
     },
     "done": true
   },
@@ -17511,6 +17571,12 @@
     },
     "done": true
   },
+  "botania:main/mana_pool_pickup": {
+    "criteria": {
+      "pickup": "2025-03-15 00:33:01 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/yellow_pavement": {
     "criteria": {
       "has_item": "2025-03-15 00:23:53 +0000"
@@ -17544,6 +17610,12 @@
   "blue_skies:recipes/food/cake_compat": {
     "criteria": {
       "has_item": "2025-03-15 00:04:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/mana_spreader": {
+    "criteria": {
+      "has_item": "2025-03-15 00:29:42 +0000"
     },
     "done": true
   },
