@@ -17271,9 +17271,33 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/white_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-03-15 00:14:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_white": {
+    "criteria": {
+      "has_alt_item": "2025-03-15 00:14:51 +0000"
+    },
+    "done": true
+  },
+  "botania:main/apothecary_pickup": {
+    "criteria": {
+      "apothecary": "2025-03-15 00:09:06 +0000"
+    },
+    "done": true
+  },
   "divinerpg:recipes/smoker/boiled_egg": {
     "criteria": {
       "has_egg": "2025-03-15 00:04:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/floating_pure_daisy": {
+    "criteria": {
+      "has_item": "2025-03-15 00:15:34 +0000"
     },
     "done": true
   },
@@ -17301,6 +17325,12 @@
     },
     "done": true
   },
+  "botania:main/pure_daisy_pickup": {
+    "criteria": {
+      "daisy": "2025-03-15 00:15:34 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pancake_fd": {
     "criteria": {
       "forge:eggs": "2025-03-15 00:04:49 +0000"
@@ -17310,6 +17340,24 @@
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2025-03-15 00:04:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/white_petal_block": {
+    "criteria": {
+      "has_item": "2025-03-15 00:14:51 +0000"
+    },
+    "done": true
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2025-03-15 00:08:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_white": {
+    "criteria": {
+      "has_item": "2025-03-15 00:14:51 +0000"
     },
     "done": true
   },
@@ -17334,6 +17382,12 @@
   "blue_skies:recipes/food/cake_compat": {
     "criteria": {
       "has_item": "2025-03-15 00:04:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_white_double": {
+    "criteria": {
+      "has_item": "2025-03-15 00:14:46 +0000"
     },
     "done": true
   },
