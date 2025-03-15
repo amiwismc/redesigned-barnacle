@@ -23,3 +23,37 @@
 [15Mar2025 00:29:55.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> zzzzzzzzz
 [15Mar2025 00:33:01.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Vivid Wave]
 [15Mar2025 00:41:19.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> zzzzzzzzzz
+[15Mar2025 00:43:16.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> de cuanto es la librerias?
+[15Mar2025 00:43:33.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> 5 cuadrados?
+[15Mar2025 00:43:54.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> no s ebb
+[15Mar2025 00:48:31.986] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.124.148.50:50609] logged in with entity id 116309 at (-2250.721615141896, 26.0, 1542.5338587865062)
+[15Mar2025 00:48:31.991] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[15Mar2025 00:48:31.992] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[15Mar2025 00:48:31.992] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[15Mar2025 00:48:31.992] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[15Mar2025 00:48:31.993] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[15Mar2025 00:48:31.995] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[15Mar2025 00:48:31.995] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[15Mar2025 00:48:32.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[15Mar2025 00:48:32.098] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
+[15Mar2025 00:48:33.990] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of marcouwu2005 (18)
+[15Mar2025 00:48:33.990] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to marcouwu2005
+[15Mar2025 00:48:40.862] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[15Mar2025 00:48:41.862] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[15Mar2025 00:48:41.863] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58) successfully connected to voice chat
+[15Mar2025 00:48:55.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> [name:"Casita", x:-63, y:67, z:185, dim:minecraft:overworld]
+[15Mar2025 00:49:23.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <marcouwu2005> pq no hay grupo
+[15Mar2025 00:49:33.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> lizet no podia hablar
+[15Mar2025 00:49:37.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> crea uno y me uno
+[15Mar2025 00:49:39.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <marcouwu2005> esa puta como siempre
+[15Mar2025 00:49:40.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <marcouwu2005> KAJSKAS
+[15Mar2025 00:49:42.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <marcouwu2005> no mentria
+[15Mar2025 00:50:33.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Electric Magic]
+[15Mar2025 00:50:42.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <marcouwu2005> que
+[15Mar2025 00:50:55.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> ya toy
+[15Mar2025 00:51:02.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> hagan grupo
+[15Mar2025 00:51:04.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> creen grupo
+[15Mar2025 00:51:08.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <marcouwu2005> ok
+[15Mar2025 00:51:20.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> apura perra
+[15Mar2025 00:51:31.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <marcouwu2005> wuag
+[15Mar2025 00:52:02.017] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/117761, l='ServerLevel[world]', x=-2072.50, y=78.00, z=1567.50]
