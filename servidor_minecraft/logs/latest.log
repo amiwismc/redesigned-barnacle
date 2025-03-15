@@ -280,3 +280,4 @@
 [15Mar2025 01:15:46.129] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Disconnected
 [15Mar2025 01:15:46.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
 [15Mar2025 01:15:46.129] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client marcouwu2005
+[15Mar2025 01:32:01.513] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/222165, l='ServerLevel[world]', x=-457.50, y=76.00, z=-56.50]
