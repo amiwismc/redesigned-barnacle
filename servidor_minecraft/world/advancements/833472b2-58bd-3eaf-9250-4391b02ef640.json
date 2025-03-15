@@ -17607,6 +17607,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/gray_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-03-15 01:32:43 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/livingwood": {
     "criteria": {
       "has_log": "2025-03-15 00:29:42 +0000"
@@ -17697,6 +17703,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-03-15 01:33:12 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_green_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-15 01:10:10 +0000"
@@ -17706,6 +17718,12 @@
   "storagedrawers:recipes/storagedrawers/oak_drawers": {
     "criteria": {
       "has_chest": "2025-03-15 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/gray_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-03-15 01:32:28 +0000"
     },
     "done": true
   },
@@ -18087,6 +18105,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_gray": {
+    "criteria": {
+      "has_item": "2025-03-15 01:32:28 +0000"
+    },
+    "done": true
+  },
   "divinerpg:recipes/campfire/boiled_egg": {
     "criteria": {
       "has_egg": "2025-03-15 00:04:49 +0000"
@@ -18156,6 +18180,12 @@
   "botania:recipes/decorations/mana_pool": {
     "criteria": {
       "has_item": "2025-03-15 00:23:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/gray_petal_block": {
+    "criteria": {
+      "has_item": "2025-03-15 01:32:43 +0000"
     },
     "done": true
   },
@@ -18327,6 +18357,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/white_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-03-15 01:32:25 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/dye_white": {
     "criteria": {
       "has_item": "2025-03-15 00:14:51 +0000"
@@ -18354,6 +18390,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
     "criteria": {
       "has_glass": "2025-03-15 01:10:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-03-15 01:33:12 +0000"
     },
     "done": true
   },
@@ -18531,6 +18573,12 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/pure_aquatic_pellets": {
+    "criteria": {
+      "has_pellets": "2025-03-15 01:37:12 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/blank_upgrade": {
     "criteria": {
       "has_chest": "2025-03-15 00:24:59 +0000"
@@ -18549,6 +18597,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/dye_gray": {
+    "criteria": {
+      "has_item": "2025-03-15 01:32:43 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_brown": {
     "criteria": {
       "has_item": "2025-03-15 00:49:00 +0000"
@@ -18558,6 +18612,12 @@
   "mcwroofs:recipes/concrete": {
     "criteria": {
       "has_planks": "2025-03-15 01:08:22 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_gray_double": {
+    "criteria": {
+      "has_alt_item": "2025-03-15 01:32:43 +0000"
     },
     "done": true
   },
