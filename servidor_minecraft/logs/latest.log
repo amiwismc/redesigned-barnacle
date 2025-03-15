@@ -4129,3 +4129,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [15Mar2025 05:00:11.593] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/88377, l='ServerLevel[world]', x=-172.50, y=75.00, z=379.50]
 [15Mar2025 05:03:21.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Magebloom]
 [15Mar2025 05:04:48.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [A Seedy Place]
+[15Mar2025 05:14:09.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Not a Fluid!]
