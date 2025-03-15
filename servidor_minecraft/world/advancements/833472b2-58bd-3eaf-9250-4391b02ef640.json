@@ -17277,6 +17277,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/brown_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-03-15 00:49:07 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/mana_void": {
     "criteria": {
       "has_item": "2025-03-15 00:23:53 +0000"
@@ -17295,6 +17301,12 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/open_crate": {
+    "criteria": {
+      "has_item": "2025-03-15 00:55:17 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/mana_detector": {
     "criteria": {
       "has_alt_item": "2025-03-15 00:23:53 +0000"
@@ -17307,9 +17319,27 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/floating_endoflame": {
+    "criteria": {
+      "has_item": "2025-03-15 00:50:33 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/apothecary_livingrock": {
     "criteria": {
       "has_item": "2025-03-15 00:23:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/light_gray_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-03-15 00:49:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/framed_livingwood": {
+    "criteria": {
+      "has_item": "2025-03-15 00:55:17 +0000"
     },
     "done": true
   },
@@ -17361,6 +17391,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/light_gray_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-03-15 00:49:22 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/turntable": {
     "criteria": {
       "has_item": "2025-03-15 00:29:42 +0000"
@@ -17382,6 +17418,30 @@
   "botania:recipes/building_blocks/livingwood_planks": {
     "criteria": {
       "has_item": "2025-03-15 00:29:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/brown_petal_block": {
+    "criteria": {
+      "has_item": "2025-03-15 00:49:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_gray": {
+    "criteria": {
+      "has_item": "2025-03-15 00:49:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood_planks_stairs": {
+    "criteria": {
+      "has_item": "2025-03-15 00:55:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_brown_double": {
+    "criteria": {
+      "has_alt_item": "2025-03-15 00:49:07 +0000"
     },
     "done": true
   },
@@ -17475,9 +17535,39 @@
     },
     "done": true
   },
+  "botania:recipes/misc/dye_light_gray": {
+    "criteria": {
+      "has_item": "2025-03-15 00:49:22 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/mossy_livingwood_planks": {
+    "criteria": {
+      "has_item": "2025-03-15 00:55:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/livingwood_fence_gate": {
+    "criteria": {
+      "has_item": "2025-03-15 00:55:17 +0000"
+    },
+    "done": true
+  },
   "divinerpg:recipes/campfire/boiled_egg": {
     "criteria": {
       "has_egg": "2025-03-15 00:04:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/pattern_framed_livingwood": {
+    "criteria": {
+      "has_item": "2025-03-15 00:55:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/brown_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-03-15 00:49:00 +0000"
     },
     "done": true
   },
@@ -17505,6 +17595,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/dye_brown": {
+    "criteria": {
+      "has_item": "2025-03-15 00:49:07 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/blue_pavement": {
     "criteria": {
       "has_item": "2025-03-15 00:23:53 +0000"
@@ -17520,6 +17616,12 @@
   "supplementaries:recipes/pancake_fd": {
     "criteria": {
       "forge:eggs": "2025-03-15 00:04:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/building_blocks/botania/sign_post_livingwood": {
+    "criteria": {
+      "has_item": "2025-03-15 00:55:17 +0000"
     },
     "done": true
   },
@@ -17541,9 +17643,21 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/light_gray_petal_block": {
+    "criteria": {
+      "has_item": "2025-03-15 00:49:22 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/black_pavement": {
     "criteria": {
       "has_item": "2025-03-15 00:23:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood_planks_slab": {
+    "criteria": {
+      "has_item": "2025-03-15 00:55:17 +0000"
     },
     "done": true
   },
@@ -17619,9 +17733,27 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/mossy_livingwood_planks_vine": {
+    "criteria": {
+      "has_item": "2025-03-15 00:55:17 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/livingrock_stairs": {
     "criteria": {
       "has_item": "2025-03-15 00:23:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/livingwood_fence": {
+    "criteria": {
+      "has_item": "2025-03-15 00:55:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_gray_double": {
+    "criteria": {
+      "has_alt_item": "2025-03-15 00:49:22 +0000"
     },
     "done": true
   },
@@ -17640,6 +17772,18 @@
   "botania:recipes/misc/petal_white_double": {
     "criteria": {
       "has_item": "2025-03-15 00:14:46 +0000"
+    },
+    "done": true
+  },
+  "botania:main/generating_flower": {
+    "criteria": {
+      "flower": "2025-03-15 00:50:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_brown": {
+    "criteria": {
+      "has_item": "2025-03-15 00:49:00 +0000"
     },
     "done": true
   },
