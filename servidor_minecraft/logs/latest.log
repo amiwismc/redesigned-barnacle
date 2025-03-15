@@ -4124,3 +4124,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [15Mar2025 04:16:18.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8295ms or 165 ticks behind
 [15Mar2025 04:56:19.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Magic Mod Mechanic]
 [15Mar2025 04:57:43.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Imbued]
+[15Mar2025 04:59:59.793] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/88222, l='ServerLevel[world]', x=-166.50, y=70.00, z=359.50]
+[15Mar2025 05:00:08.592] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/88332, l='ServerLevel[world]', x=-172.50, y=75.00, z=377.50]
+[15Mar2025 05:00:11.593] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/88377, l='ServerLevel[world]', x=-172.50, y=75.00, z=379.50]
+[15Mar2025 05:03:21.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Magebloom]
+[15Mar2025 05:04:48.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [A Seedy Place]

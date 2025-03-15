@@ -18134,6 +18134,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-03-15 05:04:48 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-15 04:18:29 +0000"
@@ -18143,6 +18149,12 @@
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-15 04:18:29 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:enchanting_apparatus": {
+    "criteria": {
+      "has_enchanting_apparatus": "2025-03-15 04:56:19 +0000"
     },
     "done": true
   },
@@ -18161,6 +18173,12 @@
   "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-15 04:18:29 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:imbuement_chamber": {
+    "criteria": {
+      "has_imbuement_chamber": "2025-03-15 04:57:43 +0000"
     },
     "done": true
   },
@@ -18260,9 +18278,21 @@
     },
     "done": true
   },
+  "ars_nouveau:magebloom_crop": {
+    "criteria": {
+      "has_magebloom_crop": "2025-03-15 05:03:21 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-15 04:18:29 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.base/crafting/fan_catalyst/sanding_sail": {
+    "criteria": {
+      "has_sand": "2025-03-15 05:00:40 +0000"
     },
     "done": true
   },
@@ -18290,6 +18320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-15 05:00:40 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-15 04:18:29 +0000"
@@ -18311,6 +18347,12 @@
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-15 04:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-03-15 05:00:40 +0000"
     },
     "done": true
   },
@@ -18341,6 +18383,18 @@
   "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-15 04:18:29 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/concrete": {
+    "criteria": {
+      "has_planks": "2025-03-15 05:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-03-15 05:04:48 +0000"
     },
     "done": true
   },
