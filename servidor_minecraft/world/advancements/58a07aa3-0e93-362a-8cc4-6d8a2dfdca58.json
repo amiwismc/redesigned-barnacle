@@ -2522,6 +2522,7 @@
       "minecraft:taiga": "2025-03-11 03:28:48 +0000",
       "minecraft:deep_ocean": "2025-03-10 05:18:55 +0000",
       "minecraft:frozen_river": "2025-03-11 03:26:50 +0000",
+      "minecraft:cherry_grove": "2025-03-15 01:09:15 +0000",
       "minecraft:beach": "2025-03-10 01:34:28 +0000",
       "minecraft:river": "2025-03-10 04:22:44 +0000",
       "minecraft:snowy_plains": "2025-03-11 03:37:12 +0000",
@@ -2697,6 +2698,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-03-15 01:01:45 +0000",
       "cooked_mutton": "2025-03-12 05:25:22 +0000",
       "cooked_beef": "2025-03-10 01:15:20 +0000",
       "beef": "2025-03-10 01:37:56 +0000",
@@ -2706,6 +2708,7 @@
       "rotten_flesh": "2025-03-10 04:58:12 +0000",
       "suspicious_stew": "2025-03-10 04:56:42 +0000",
       "cookie": "2025-03-12 04:55:33 +0000",
+      "cooked_chicken": "2025-03-15 01:00:07 +0000",
       "enchanted_golden_apple": "2025-03-12 04:25:56 +0000",
       "carrot": "2025-03-10 05:41:13 +0000"
     },
@@ -3727,11 +3730,14 @@
       "cold_desert": "2025-03-11 03:33:03 +0000",
       "maple_woods": "2025-03-10 17:19:37 +0000",
       "orchard": "2025-03-10 04:23:08 +0000",
+      "lavender_forest": "2025-03-15 01:10:21 +0000",
       "coniferous_forest": "2025-03-12 04:27:27 +0000",
       "spider_nest": "2025-03-12 04:33:57 +0000",
       "redwood_forest": "2025-03-10 01:33:22 +0000",
+      "dune_beach": "2025-03-15 01:04:28 +0000",
       "seasonal_forest": "2025-03-12 04:06:59 +0000",
       "auroral_garden": "2025-03-11 03:32:26 +0000",
+      "lavender_field": "2025-03-15 01:07:06 +0000",
       "pumpkin_patch": "2025-03-10 17:19:38 +0000",
       "grassland": "2025-03-10 16:52:56 +0000",
       "snowy_fir_clearing": "2025-03-11 03:32:26 +0000",
@@ -14400,7 +14406,8 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-03-10 17:20:18 +0000",
-      "entered_watch_tower": "2025-03-15 00:56:31 +0000"
+      "entered_watch_tower": "2025-03-15 00:56:31 +0000",
+      "entered_sunken_shrine": "2025-03-15 01:02:16 +0000"
     },
     "done": false
   },
@@ -17609,6 +17616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-03-15 01:02:21 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_brick_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-15 00:49:41 +0000"
@@ -17645,6 +17658,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-03-15 01:02:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
     "criteria": {
       "has_andesite": "2025-03-15 00:49:41 +0000"
@@ -17657,6 +17676,18 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-03-15 01:11:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-03-15 01:02:21 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_shingle_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-15 00:49:41 +0000"
@@ -17666,6 +17697,18 @@
   "stoneworks:recipes/building_blocks/andesite_pillar_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-15 00:49:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-03-15 01:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-03-15 01:02:27 +0000"
     },
     "done": true
   },
@@ -17705,6 +17748,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-03-15 01:02:21 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/andesite_corner_trim": {
     "criteria": {
       "has_andesite_corner_trim": "2025-03-15 00:49:41 +0000"
@@ -17729,6 +17778,12 @@
     },
     "done": true
   },
+  "paraglider:all_vessels": {
+    "criteria": {
+      "code_triggered": "2025-03-15 01:14:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-15 00:49:41 +0000"
@@ -17750,6 +17805,12 @@
   "mcwbridges:recipes/andesite_bridge_pier": {
     "criteria": {
       "has_planks": "2025-03-15 00:49:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-03-15 01:02:21 +0000"
     },
     "done": true
   },
@@ -17813,6 +17874,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-03-15 01:02:27 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_tile_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-15 00:49:41 +0000"
@@ -17837,6 +17904,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-03-15 01:02:21 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-15 00:49:41 +0000"
@@ -17858,6 +17931,12 @@
   "stoneworks:recipes/building_blocks/andesite_plate_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-15 00:49:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-03-15 01:02:21 +0000"
     },
     "done": true
   },
@@ -17888,6 +17967,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-03-15 00:49:41 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
+    "criteria": {
+      "has_cod": "2025-03-15 01:02:21 +0000"
     },
     "done": true
   },
@@ -17969,6 +18054,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-15 01:02:21 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_shingles_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-15 00:49:41 +0000"
@@ -17984,6 +18075,12 @@
   "stoneworks:recipes/building_blocks/andesite_brick_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-15 00:49:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-03-15 01:02:27 +0000"
     },
     "done": true
   },

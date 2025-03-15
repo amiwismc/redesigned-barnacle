@@ -163,3 +163,120 @@
 [15Mar2025 01:01:29.901] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1473, y=-54, z=535}
 [15Mar2025 01:01:29.901] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1473, y=-54, z=534}
 [15Mar2025 01:02:14.319] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: kaisyn:village/exclusives/mediterranean/villager_bishop
+[15Mar2025 01:03:54.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2350ms or 47 ticks behind
+[15Mar2025 01:04:21.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8434ms or 168 ticks behind
+[15Mar2025 01:04:33.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved wrongly! 2.0
+[15Mar2025 01:04:37.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved wrongly! 0.32181870509248256
+[15Mar2025 01:04:37.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved wrongly! 0.8037326688015582
+[15Mar2025 01:04:37.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved wrongly! 1.2856180430933364
+[15Mar2025 01:04:37.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved wrongly! 1.7674881197581271
+[15Mar2025 01:04:42.439] [Worker-Main-71/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/126651, l='ServerLevel[world]', x=-958.50, y=-34.00, z=313.50] as it would cause deadlock
+[15Mar2025 01:04:43.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved wrongly! 1.0140365058332463
+[15Mar2025 01:04:43.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved wrongly! 2.2916132744830975
+[15Mar2025 01:04:43.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved wrongly! 3.1673228885676963
+[15Mar2025 01:04:43.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved wrongly! 3.8280014006111287
+[15Mar2025 01:04:49.703] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-924, y=-54, z=251}
+[15Mar2025 01:04:49.703] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-924, y=-54, z=251}
+[15Mar2025 01:04:50.185] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/126977, l='ServerLevel[world]', x=-872.50, y=-53.00, z=300.50] as it would cause deadlock
+[15Mar2025 01:04:50.256] [Worker-Main-71/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/126982, l='ServerLevel[world]', x=-872.50, y=-53.00, z=308.50] as it would cause deadlock
+[15Mar2025 01:04:51.345] [Worker-Main-71/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-947, y=-29, z=231}
+[15Mar2025 01:04:51.345] [Worker-Main-71/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-947, y=-29, z=231}
+[15Mar2025 01:04:56.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> zzzzzzzzz
+[15Mar2025 01:05:04.438] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/127318, l='ServerLevel[world]', x=-834.50, y=-53.00, z=298.50] as it would cause deadlock
+[15Mar2025 01:05:04.503] [Worker-Main-71/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-840, y=-54, z=320}
+[15Mar2025 01:05:04.504] [Worker-Main-71/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-839, y=-54, z=321}
+[15Mar2025 01:05:04.504] [Worker-Main-71/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-840, y=-54, z=320}
+[15Mar2025 01:05:04.504] [Worker-Main-71/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-839, y=-54, z=321}
+[15Mar2025 01:05:04.662] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/127331, l='ServerLevel[world]', x=-832.50, y=-28.00, z=262.50] as it would cause deadlock
+[15Mar2025 01:05:04.663] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/127333, l='ServerLevel[world]', x=-840.50, y=-28.00, z=262.50] as it would cause deadlock
+[15Mar2025 01:05:09.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> zzzzzzzzzz
+[15Mar2025 01:05:14.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> zzzzzzzzzzz
+[15Mar2025 01:05:24.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nifthy575> kca mojada dice
+[15Mar2025 01:05:31.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3064ms or 61 ticks behind
+[15Mar2025 01:05:33.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> kk mojada
+[15Mar2025 01:06:33.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[15Mar2025 01:06:58.149] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-885, y=-4, z=192}
+[15Mar2025 01:06:58.150] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-884, y=-4, z=193}
+[15Mar2025 01:06:58.150] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-884, y=-3, z=192}
+[15Mar2025 01:06:58.150] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-885, y=-4, z=192}
+[15Mar2025 01:06:58.150] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-884, y=-4, z=193}
+[15Mar2025 01:06:58.150] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-884, y=-3, z=192}
+[15Mar2025 01:07:04.236] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-784, y=-30, z=171}
+[15Mar2025 01:07:09.851] [Worker-Main-71/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/128990, l='ServerLevel[world]', x=-929.50, y=-20.00, z=136.50] as it would cause deadlock
+[15Mar2025 01:07:10.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved too quickly! 6.278322463428026,-4.355534371328503,-7.018850597475591
+[15Mar2025 01:07:10.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved too quickly! 6.563872376413769,-4.645084270208258,-7.255146312532645
+[15Mar2025 01:07:10.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved too quickly! 6.843140366985153,-4.906592060890901,-7.486087343809174
+[15Mar2025 01:07:10.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved too quickly! 7.315279138139772,-4.906592060890901,-7.919360119273051
+[15Mar2025 01:07:10.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved too quickly! 7.757420604394611,-4.906592060890901,-8.407180956328716
+[15Mar2025 01:07:10.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved too quickly! 8.171914439408397,-4.906592060890901,-8.932380813833618
+[15Mar2025 01:07:10.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved too quickly! 8.571614578179265,-4.906592060890901,-9.477581439923597
+[15Mar2025 01:07:10.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved too quickly! 8.963398905045096,-4.906592060890901,-10.033484078511151
+[15Mar2025 01:07:10.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved too quickly! 9.35094763878476,-3.906592060890901,-10.595113150611041
+[15Mar2025 01:07:10.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved too quickly! 9.73622999109125,-3.906592060890901,-10.904191109253077
+[15Mar2025 01:07:10.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved too quickly! 10.144370340034243,-3.906592060890901,-11.150453038101489
+[15Mar2025 01:07:10.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved too quickly! 10.617153722855392,-3.906592060890901,-11.47386086143024
+[15Mar2025 01:07:10.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved wrongly! 3.111575474276689
+[15Mar2025 01:07:10.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved wrongly! 3.754166788393874
+[15Mar2025 01:07:10.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved wrongly! 4.4155533614968885
+[15Mar2025 01:07:16.850] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[15Mar2025 01:07:16.876] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-814, y=-51, z=-2}
+[15Mar2025 01:07:24.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved wrongly! 2.0
+[15Mar2025 01:07:32.502] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-834, y=0, z=23}
+[15Mar2025 01:07:33.139] [Worker-Main-71/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
+[15Mar2025 01:07:34.058] [Worker-Main-71/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_173
+[15Mar2025 01:07:34.088] [Worker-Main-71/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id shy_guy:shy_guy
+[15Mar2025 01:07:35.215] [Worker-Main-71/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[15Mar2025 01:07:37.833] [Worker-Main-71/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[15Mar2025 01:07:51.902] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-680, y=-24, z=-148}
+[15Mar2025 01:07:51.902] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-680, y=-24, z=-147}
+[15Mar2025 01:07:55.155] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-688, y=-31, z=-161}
+[15Mar2025 01:08:14.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved wrongly! 0.4969331695140795
+[15Mar2025 01:08:14.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved wrongly! 1.1276743134619096
+[15Mar2025 01:08:15.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved wrongly! 0.39459098928509206
+[15Mar2025 01:08:17.047] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-454, y=27, z=-276}
+[15Mar2025 01:08:21.646] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-385, y=25, z=-176}
+[15Mar2025 01:08:21.646] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-385, y=25, z=-177}
+[15Mar2025 01:08:28.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved wrongly! 0.5050117343430998
+[15Mar2025 01:08:28.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved wrongly! 1.0979786010657904
+[15Mar2025 01:08:33.451] [Worker-Main-240/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[15Mar2025 01:08:33.464] [Worker-Main-240/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[15Mar2025 01:08:33.488] [Worker-Main-240/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[15Mar2025 01:08:33.513] [Worker-Main-240/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[15Mar2025 01:09:09.526] [Worker-Main-240/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[15Mar2025 01:09:09.526] [Worker-Main-240/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[15Mar2025 01:09:09.528] [Worker-Main-240/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[15Mar2025 01:09:09.528] [Worker-Main-240/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[15Mar2025 01:09:09.528] [Worker-Main-240/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[15Mar2025 01:09:09.528] [Worker-Main-240/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[15Mar2025 01:09:09.528] [Worker-Main-240/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[15Mar2025 01:09:09.529] [Worker-Main-240/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[15Mar2025 01:09:33.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <marcouwu2005> [x:-344, y:91, z:-349, dim:minecraft:overworld]
+[15Mar2025 01:10:15.014] [Worker-Main-71/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-282, y=-54, z=-585}
+[15Mar2025 01:10:15.015] [Worker-Main-71/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-282, y=-54, z=-585}
+[15Mar2025 01:10:15.806] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/143124, l='ServerLevel[world]', x=-305.50, y=-53.00, z=-589.50] as it would cause deadlock
+[15Mar2025 01:10:15.921] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-339, y=-54, z=-586}
+[15Mar2025 01:10:15.922] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-341, y=-54, z=-585}
+[15Mar2025 01:10:15.922] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-340, y=-53, z=-585}
+[15Mar2025 01:10:15.922] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-339, y=-54, z=-586}
+[15Mar2025 01:10:15.922] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-341, y=-54, z=-585}
+[15Mar2025 01:10:15.922] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-340, y=-53, z=-585}
+[15Mar2025 01:10:19.134] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/143375, l='ServerLevel[world]', x=-241.50, y=-3.00, z=-596.50] as it would cause deadlock
+[15Mar2025 01:10:19.397] [Worker-Main-240/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-381, y=-57, z=-593}
+[15Mar2025 01:10:19.397] [Worker-Main-240/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-381, y=-57, z=-593}
+[15Mar2025 01:10:28.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved wrongly! 0.3149534458234484
+[15Mar2025 01:10:28.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved wrongly! 0.7984322010127869
+[15Mar2025 01:10:28.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved wrongly! 1.0
+[15Mar2025 01:10:28.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved wrongly! 1.0
+[15Mar2025 01:10:31.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved wrongly! 0.2801932669064229
+[15Mar2025 01:10:31.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved wrongly! 0.6955826949480866
+[15Mar2025 01:10:31.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved wrongly! 1.1150019371911242
+[15Mar2025 01:10:31.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved wrongly! 1.5365774526675011
+[15Mar2025 01:10:38.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> zzzzzzzzzzzzzzzzzzzzzzzzzz
+[15Mar2025 01:11:23.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved wrongly! 0.2732806966043597
+[15Mar2025 01:11:23.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of marcouwu2005) moved wrongly! 0.6927884453324396
+[15Mar2025 01:11:27.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Pic-A-Nic Basket?]
+[15Mar2025 01:11:43.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> apura mrd
+[15Mar2025 01:14:58.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has completed the challenge [Hero of Hyrule]
+[15Mar2025 01:15:46.129] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Disconnected
+[15Mar2025 01:15:46.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[15Mar2025 01:15:46.129] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client marcouwu2005
