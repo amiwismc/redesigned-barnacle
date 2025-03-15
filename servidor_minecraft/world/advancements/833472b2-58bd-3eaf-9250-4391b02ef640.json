@@ -2500,6 +2500,7 @@
       "minecraft:cold_ocean": "2025-03-11 03:17:53 +0000",
       "minecraft:forest": "2025-03-10 17:22:15 +0000",
       "minecraft:lush_caves": "2025-03-10 05:19:11 +0000",
+      "minecraft:deep_cold_ocean": "2025-03-14 23:59:24 +0000",
       "minecraft:ice_spikes": "2025-03-11 03:46:59 +0000",
       "minecraft:frozen_ocean": "2025-03-11 03:25:28 +0000",
       "minecraft:windswept_forest": "2025-03-11 03:09:33 +0000",
@@ -3812,6 +3813,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2025-03-14 23:51:47 +0000",
       "shrubland": "2025-03-10 03:09:50 +0000",
       "rocky_shrubland": "2025-03-10 16:52:43 +0000",
       "highland": "2025-03-14 22:14:48 +0000",
@@ -3822,12 +3824,15 @@
       "coniferous_forest": "2025-03-12 04:26:20 +0000",
       "spider_nest": "2025-03-12 04:34:06 +0000",
       "redwood_forest": "2025-03-10 01:33:25 +0000",
+      "seasonal_orchard": "2025-03-14 23:58:51 +0000",
       "seasonal_forest": "2025-03-11 15:58:33 +0000",
       "auroral_garden": "2025-03-11 03:31:53 +0000",
       "lavender_field": "2025-03-14 23:20:24 +0000",
       "pumpkin_patch": "2025-03-10 17:19:38 +0000",
       "grassland": "2025-03-10 16:52:56 +0000",
       "snowy_fir_clearing": "2025-03-11 03:32:19 +0000",
+      "snowy_coniferous_forest": "2025-03-14 23:51:35 +0000",
+      "tundra": "2025-03-14 23:51:53 +0000",
       "glowing_grotto": "2025-03-10 05:20:11 +0000",
       "snowy_maple_woods": "2025-03-11 03:31:28 +0000",
       "crag": "2025-03-14 23:39:53 +0000"
@@ -17248,9 +17253,87 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-03-15 00:04:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2025-03-15 00:04:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-03-15 00:03:01 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/smoker/boiled_egg": {
+    "criteria": {
+      "has_egg": "2025-03-15 00:04:49 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
     "criteria": {
       "has_flower": "2025-03-14 23:28:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-03-15 00:04:49 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/campfire/boiled_egg": {
+    "criteria": {
+      "has_egg": "2025-03-15 00:04:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-03-15 00:04:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-03-15 00:04:49 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-03-15 00:04:49 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/furnace/boiled_egg": {
+    "criteria": {
+      "has_egg": "2025-03-15 00:04:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-03-15 00:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-03-15 00:04:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cake_compat": {
+    "criteria": {
+      "has_item": "2025-03-15 00:04:49 +0000"
     },
     "done": true
   },
